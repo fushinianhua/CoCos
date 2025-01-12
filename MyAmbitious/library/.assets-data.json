@@ -1,0 +1,270 @@
+{
+  "b5918a7c-8992-4c65-9b13-b8c3981cd5ce": {
+    "url": "db://assets/scenes",
+    "value": {},
+    "versionCode": 0
+  },
+  "d60694b3-fb4a-456d-84f8-2d2881489b29": {
+    "url": "db://assets/scenes/WarehouseScene(仓库页面).scene",
+    "value": {
+      "depends": [
+        "d60694b3-fb4a-456d-84f8-2d2881489b29",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941",
+        "24a704da-2867-446d-8d1a-5e920c75e09d@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "a8c4d183-af91-48fe-8ddc-bdf5e94f79d2"
+      ],
+      "dependScripts": [
+        "f39b31db-622b-4150-a19e-5bbafa66aa79"
+      ]
+    },
+    "versionCode": 0
+  },
+  "52d4f6bd-2fd3-4baf-9469-6cf02da46b4d": {
+    "url": "db://assets/scenes/GameInitialScene(初始界面).scene",
+    "value": {
+      "depends": [
+        "52d4f6bd-2fd3-4baf-9469-6cf02da46b4d",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "24a704da-2867-446d-8d1a-5e920c75e09d@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941"
+      ],
+      "dependScripts": [
+        "12772528-33df-45a1-9f08-4b75af736dfb",
+        "c19e6a94-f1d3-4a12-be1b-d65c708b865a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "f554555c-fc49-4565-83bb-963de13cd098": {
+    "url": "db://assets/scripts",
+    "value": {},
+    "versionCode": 0
+  },
+  "d702c7f8-1fc1-4192-8076-1cf659319734": {
+    "url": "db://assets/scripts/stratGame.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "1d0ce558-7682-4085-aee0-6fc5b854bd06": {
+    "url": "db://assets/scripts/strat/GameStrat.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "54fc6692-ccfb-4cd0-88be-8158bf108f7e": {
+    "url": "db://assets/scripts/stratGame.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "e8829e3f-cef2-4aa8-a778-2a871825a8cd": {
+    "url": "db://assets/scripts/GameManager.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "049c9c54-4345-444c-a2d2-e02e6d536a22": {
+    "url": "db://assets/scripts/CreateShelf.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "6a39f33a-5db1-4af0-b59c-5e0f98fc1bda": {
+    "url": "db://assets/scripts/strat",
+    "value": {},
+    "versionCode": 0
+  },
+  "99f49457-fc2c-43fd-8f5a-9ae13954d95e": {
+    "url": "db://assets/scripts/InitialGame",
+    "value": {},
+    "versionCode": 0
+  },
+  "70619995-9ca9-4641-90ed-c8316147aa99": {
+    "url": "db://assets/scripts/strat/CreateShelf.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "c19e6a94-f1d3-4a12-be1b-d65c708b865a": {
+    "url": "db://assets/scripts/InitialGame/Strat.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "a93438c6-afcc-4bf6-9884-f746c904ca58": {
+    "url": "db://assets/scripts/strat/folder",
+    "value": {},
+    "versionCode": 0
+  },
+  "2d433d3a-66b0-4c39-8c32-d2235022fc9b": {
+    "url": "db://assets/scripts/Globla",
+    "value": {},
+    "versionCode": 0
+  },
+  "12772528-33df-45a1-9f08-4b75af736dfb": {
+    "url": "db://assets/scripts/Globla/GameManger.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "43d2608a-bf97-480b-8436-b6848b623605": {
+    "url": "db://assets/scripts/Warehouse",
+    "value": {},
+    "versionCode": 0
+  },
+  "f39b31db-622b-4150-a19e-5bbafa66aa79": {
+    "url": "db://assets/scripts/Warehouse/Createnew.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "e847b3bf-0699-4612-97fc-9532d7967291": {
+    "url": "db://assets/Prefabs",
+    "value": {},
+    "versionCode": 0
+  },
+  "a8c4d183-af91-48fe-8ddc-bdf5e94f79d2": {
+    "url": "db://assets/Prefabs/WareHouse.prefab",
+    "value": {
+      "depends": [
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 0
+  },
+  "e3d072e9-6a33-4b2e-a733-623f298aa72d": {
+    "url": "db://assets/scenes/PlayerGeProperty(获取属性).scene",
+    "value": {},
+    "versionCode": 0
+  },
+  "4261d92d-3313-4319-b661-54dcbef0a652": {
+    "url": "db://assets/scripts/GetPropenty",
+    "value": {},
+    "versionCode": 0
+  },
+  "11e2d31b-af68-4b5f-a6d4-9f1b2bb33384": {
+    "url": "db://assets/scripts/GetPropenty/Start.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "eee5ba1e-7d66-4ac8-97d6-b5de4037c2cd": {
+    "url": "db://assets/scripts/strat",
+    "value": {},
+    "versionCode": 0
+  },
+  "be74839a-c794-480e-b2db-ee2c6b60c3b5": {
+    "url": "db://assets/scripts/strat/Strat.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "ffdf2eb1-b506-4353-b067-55dbe7a0cefc": {
+    "url": "db://assets/scripts/GetPropenty/StartGet.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "f6463084-6ef4-4ac5-9746-68b39a71985d": {
+    "url": "db://assets/Prefabs/Basket.prefab",
+    "value": {},
+    "versionCode": 0
+  },
+  "6657f1f9-4890-4492-bd17-3ca46c739562": {
+    "url": "db://assets/Prefabs/Basket.prefab",
+    "value": {},
+    "versionCode": 0
+  },
+  "4199b4b4-214a-4505-9bbb-30c3a2f25514": {
+    "url": "db://assets/Prefabs/Basket.prefab",
+    "value": {},
+    "versionCode": 0
+  },
+  "453eb64f-2ffa-4ded-bf66-584aae1d3058": {
+    "url": "db://assets/Prefabs/BasKet.prefab",
+    "value": {},
+    "versionCode": 0
+  },
+  "ced5094a-959c-4a2f-aeee-64d15fb3b548": {
+    "url": "db://assets/Prefabs/BasKet.prefab",
+    "value": {},
+    "versionCode": 0
+  },
+  "bb4a9d92-ff21-4aa5-a0b6-2aad8e51f3f5": {
+    "url": "db://assets/Prefabs/PropenrtyName.prefab",
+    "value": {
+      "depends": [
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941"
+      ],
+      "dependScripts": [
+        "aa1bf362-0f2b-4cba-ac32-c367d653861e"
+      ]
+    },
+    "versionCode": 0
+  },
+  "f6c33b8e-3be6-49ee-93f5-0cfcb3251690": {
+    "url": "db://assets/scripts/GetPropenty/Generate.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "aa1bf362-0f2b-4cba-ac32-c367d653861e": {
+    "url": "db://assets/scripts/GetPropenty/Destroy.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "8325a6f3-774e-41e2-9e1a-36922b698ee3": {
+    "url": "db://assets/scenes/GetPropentyScebe(获取属性).scene",
+    "value": {
+      "depends": [
+        "8325a6f3-774e-41e2-9e1a-36922b698ee3",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "8069a5fc-174a-4948-aa53-82497b013204",
+        "37766315-1ad3-43ba-bf5c-a68dd197e7fd",
+        "f420ac18-2c0d-4035-a4cf-5c22b9a6cdc7",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "e46d5455-4634-4b80-be6c-319d8fdd925c"
+      ],
+      "dependScripts": [
+        "09598f0c-8d62-4576-a817-fa7fffff96ee",
+        "CC3eba29-7abb-723a-f7ab-ae275e2277e8"
+      ]
+    },
+    "versionCode": 0
+  },
+  "09598f0c-8d62-4576-a817-fa7fffff96ee": {
+    "url": "db://assets/scripts/GetPropenty/GameManager.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "54cb2b42-ba73-4eaf-a711-7ac949db7199": {
+    "url": "db://assets/scripts/GetPropenty/Move.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "37766315-1ad3-43ba-bf5c-a68dd197e7fd": {
+    "url": "db://assets/Prefabs/Basket.prefab",
+    "value": {
+      "depends": [
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941"
+      ],
+      "dependScripts": [
+        "54cb2b42-ba73-4eaf-a711-7ac949db7199"
+      ]
+    },
+    "versionCode": 0
+  },
+  "f420ac18-2c0d-4035-a4cf-5c22b9a6cdc7": {
+    "url": "db://assets/Prefabs/FutureWorkLabel.prefab",
+    "value": {
+      "depends": [],
+      "dependScripts": []
+    },
+    "versionCode": 0
+  },
+  "8069a5fc-174a-4948-aa53-82497b013204": {
+    "url": "db://assets/Prefabs/WorkLabel.prefab",
+    "value": {
+      "depends": [],
+      "dependScripts": []
+    },
+    "versionCode": 0
+  }
+}
