@@ -108,10 +108,6 @@
     "C:\\Users\\辛鹏\\Desktop\\CCS\\AmbitiousApp\\Ambitious\\assets\\scenes\\PlayerGeProperty(获取属性).scene.meta": {
       "time": 1735263497454.6814
     },
-    "C:\\Users\\辛鹏\\Desktop\\CCS\\AmbitiousApp\\Ambitious\\assets\\scenes\\PlayerGeProperty(获取属性).scene": {
-      "time": 1735382322741.0945,
-      "uuid": "e3d072e9-6a33-4b2e-a733-623f298aa72d"
-    },
     "C:\\Users\\辛鹏\\Desktop\\CCS\\AmbitiousApp\\Ambitious\\assets\\scripts\\GetPropenty.meta": {
       "time": 1735289531708.909
     },
@@ -136,16 +132,8 @@
     "C:\\Users\\辛鹏\\Desktop\\CCS\\AmbitiousApp\\Ambitious\\assets\\scripts\\GetPropenty\\StartGet.ts.meta": {
       "time": 1735292087314.9636
     },
-    "C:\\Users\\辛鹏\\Desktop\\CCS\\AmbitiousApp\\Ambitious\\assets\\scripts\\GetPropenty\\StartGet.ts": {
-      "time": 1735375677388.791,
-      "uuid": "ffdf2eb1-b506-4353-b067-55dbe7a0cefc"
-    },
     "C:\\Users\\辛鹏\\Desktop\\CCS\\AmbitiousApp\\Ambitious\\assets\\Prefabs\\BasKet.prefab.meta": {
       "time": 1735364734770.6836
-    },
-    "C:\\Users\\辛鹏\\Desktop\\CCS\\AmbitiousApp\\Ambitious\\assets\\Prefabs\\BasKet.prefab": {
-      "time": 1735379061901.704,
-      "uuid": "ced5094a-959c-4a2f-aeee-64d15fb3b548"
     },
     "C:\\Users\\辛鹏\\Desktop\\CCS\\AmbitiousApp\\Ambitious\\assets\\Prefabs\\PropenrtyName.prefab.meta": {
       "time": 1735379566249.721
@@ -307,6 +295,153 @@
     "C:\\Users\\Administrator\\Desktop\\Ambitious\\assets\\scenes\\GetPropentyScebe(获取属性).scene": {
       "time": 1736346122672.3645,
       "uuid": "8325a6f3-774e-41e2-9e1a-36922b698ee3"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs": {
+      "time": 1736645122030.998,
+      "uuid": "e847b3bf-0699-4612-97fc-9532d7967291"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scenes": {
+      "time": 1736645122062.2598,
+      "uuid": "b5918a7c-8992-4c65-9b13-b8c3981cd5ce"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts": {
+      "time": 1736645122132.3406,
+      "uuid": "f554555c-fc49-4565-83bb-963de13cd098"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\GetPropenty": {
+      "time": 1736645122106.073,
+      "uuid": "4261d92d-3313-4319-b661-54dcbef0a652"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\Globla": {
+      "time": 1736645122116.768,
+      "uuid": "2d433d3a-66b0-4c39-8c32-d2235022fc9b"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\InitialGame": {
+      "time": 1736645122128.4473,
+      "uuid": "99f49457-fc2c-43fd-8f5a-9ae13954d95e"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\Warehouse": {
+      "time": 1736645122139.1643,
+      "uuid": "43d2608a-bf97-480b-8436-b6848b623605"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\GetPropenty\\GameManager.ts": {
+      "time": 1736339062636.2742,
+      "uuid": "09598f0c-8d62-4576-a817-fa7fffff96ee"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\GetPropenty\\Generate.ts": {
+      "time": 1736002821710.2107,
+      "uuid": "f6c33b8e-3be6-49ee-93f5-0cfcb3251690"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\GetPropenty\\Move.ts": {
+      "time": 1736338364431.8562,
+      "uuid": "54cb2b42-ba73-4eaf-a711-7ac949db7199"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\Globla\\GameManger.ts": {
+      "time": 1735291246346.2754,
+      "uuid": "12772528-33df-45a1-9f08-4b75af736dfb"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\InitialGame\\Strat.ts": {
+      "time": 1735208203036.3403,
+      "uuid": "c19e6a94-f1d3-4a12-be1b-d65c708b865a"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\Warehouse\\Createnew.ts": {
+      "time": 1735289988739.7803,
+      "uuid": "f39b31db-622b-4150-a19e-5bbafa66aa79"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs.meta": {
+      "time": 1735086822552.1128
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scenes.meta": {
+      "time": 1734313251262.7185
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts.meta": {
+      "time": 1734330190073.2664
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\GetPropenty.meta": {
+      "time": 1735289531708.909
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\Globla.meta": {
+      "time": 1735002120901.1843
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\InitialGame.meta": {
+      "time": 1734933707524.9148
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\Warehouse.meta": {
+      "time": 1735086409345.493
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\GetPropenty\\GameManager.ts.meta": {
+      "time": 1736337310945.784
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\GetPropenty\\Generate.ts.meta": {
+      "time": 1735379618153.7957
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\GetPropenty\\Move.ts.meta": {
+      "time": 1736337310955.1514
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\Globla\\GameManger.ts.meta": {
+      "time": 1735003062102.6062
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\InitialGame\\Strat.ts.meta": {
+      "time": 1735001841182.0928
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\Warehouse\\Createnew.ts.meta": {
+      "time": 1735086449121.6602
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs\\Basket.prefab": {
+      "time": 1736338792207.8992,
+      "uuid": "37766315-1ad3-43ba-bf5c-a68dd197e7fd"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs\\FutureWorkLabel.prefab": {
+      "time": 1736003263345.373,
+      "uuid": "f420ac18-2c0d-4035-a4cf-5c22b9a6cdc7"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs\\PropenrtyName.prefab": {
+      "time": 1736003462585.1077,
+      "uuid": "bb4a9d92-ff21-4aa5-a0b6-2aad8e51f3f5"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs\\WareHouse.prefab": {
+      "time": 1735088480754.0266,
+      "uuid": "a8c4d183-af91-48fe-8ddc-bdf5e94f79d2"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs\\WorkLabel.prefab": {
+      "time": 1736337548429.014,
+      "uuid": "8069a5fc-174a-4948-aa53-82497b013204"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scenes\\GameInitialScene(初始界面).scene": {
+      "time": 1735289953968.2517,
+      "uuid": "52d4f6bd-2fd3-4baf-9469-6cf02da46b4d"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scenes\\GetPropentyScebe(获取属性).scene": {
+      "time": 1736346122672.3645,
+      "uuid": "8325a6f3-774e-41e2-9e1a-36922b698ee3"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scenes\\WarehouseScene(仓库页面).scene": {
+      "time": 1736645834608.4824,
+      "uuid": "d60694b3-fb4a-456d-84f8-2d2881489b29"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs\\PropenrtyName.prefab.meta": {
+      "time": 1735379566249.721
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs\\Basket.prefab.meta": {
+      "time": 1736337412299.5525
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs\\WorkLabel.prefab.meta": {
+      "time": 1721100411000
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs\\FutureWorkLabel.prefab.meta": {
+      "time": 1721106595000
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs\\WareHouse.prefab.meta": {
+      "time": 1735087818929.8108
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scenes\\GetPropentyScebe(获取属性).scene.meta": {
+      "time": 1718852828000
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scenes\\GameInitialScene(初始界面).scene.meta": {
+      "time": 1734327156503.2888
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scenes\\WarehouseScene(仓库页面).scene.meta": {
+      "time": 1734313287995.42
     }
   },
   "missing": {
@@ -371,9 +506,9 @@
       "removeTime": 1735086847858
     },
     "e3d072e9-6a33-4b2e-a733-623f298aa72d": {
-      "path": "C:\\Users\\Administrator\\Desktop\\Ambitious\\assets\\scenes\\PlayerGeProperty(获取属性).scene",
-      "time": 1736001552457.6914,
-      "removeTime": 1736338100272
+      "path": "C:\\Users\\辛鹏\\Desktop\\CCS\\AmbitiousApp\\Ambitious\\assets\\scenes\\PlayerGeProperty(获取属性).scene",
+      "time": 1735382322741.0945,
+      "removeTime": 1736645711041
     },
     "99f49457-fc2c-43fd-8f5a-9ae13954d95e": {
       "path": "C:\\Users\\辛鹏\\Desktop\\CCS\\AmbitiousApp\\Ambitious\\assets\\scripts\\strat",
@@ -401,9 +536,9 @@
       "removeTime": 1735292018467
     },
     "ffdf2eb1-b506-4353-b067-55dbe7a0cefc": {
-      "path": "C:\\Users\\Administrator\\Desktop\\Ambitious\\assets\\scripts\\GetPropenty\\StartGet.ts",
-      "time": 1735449071988.9692,
-      "removeTime": 1736338131015
+      "path": "C:\\Users\\辛鹏\\Desktop\\CCS\\AmbitiousApp\\Ambitious\\assets\\scripts\\GetPropenty\\StartGet.ts",
+      "time": 1735375677388.791,
+      "removeTime": 1736645711041
     },
     "f6463084-6ef4-4ac5-9746-68b39a71985d": {
       "path": "C:\\Users\\辛鹏\\Desktop\\CCS\\AmbitiousApp\\Ambitious\\assets\\Prefabs\\Basket.prefab",
@@ -436,9 +571,9 @@
       "removeTime": 1736338112106
     },
     "ced5094a-959c-4a2f-aeee-64d15fb3b548": {
-      "path": "C:\\Users\\Administrator\\Desktop\\Ambitious\\assets\\Prefabs\\BasKet.prefab",
-      "time": 1736001470103.6743,
-      "removeTime": 1736337412283
+      "path": "C:\\Users\\辛鹏\\Desktop\\CCS\\AmbitiousApp\\Ambitious\\assets\\Prefabs\\BasKet.prefab",
+      "time": 1735379061901.704,
+      "removeTime": 1736645711041
     },
     "8325a6f3-774e-41e2-9e1a-36922b698ee3": {
       "path": "C:\\Users\\Administrator\\Desktop\\Ambitious\\assets\\scenes\\scene.scene",

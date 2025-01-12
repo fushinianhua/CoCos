@@ -5,17 +5,17 @@
     "module": "ES2015",
     "strict": true,
     "types": [
-      "./temp/declarations/cc",
       "./temp/declarations/cc.custom-macro",
+      "./temp/declarations/cc",
       "./temp/declarations/jsb",
       "./temp/declarations/cc.env"
     ],
     "paths": {
       "db://internal/*": [
-        "D:\\软件\\编辑器\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\*"
+        "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\*"
       ],
       "db://assets/*": [
-        "C:\\Users\\Administrator\\Desktop\\Ambitious\\assets\\*"
+        "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\*"
       ]
     },
     "experimentalDecorators": true,

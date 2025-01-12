@@ -2,13 +2,13 @@
   "imports": {
     "cce:/internal/x/cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js",
     "cce:/internal/x/prerequisite-imports": "./chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js",
-    "file:///C:/Users/Administrator/Desktop/Ambitious/assets/scripts/GetPropenty/GameManager.ts": "./chunks/6d/6d338a7cb529311899b7a719de6987ace4922da0.js",
-    "file:///C:/Users/Administrator/Desktop/Ambitious/assets/scripts/GetPropenty/Generate.ts": "./chunks/02/0241d8b6135bbed407583626b642b57e44b458d3.js",
-    "file:///C:/Users/Administrator/Desktop/Ambitious/assets/scripts/GetPropenty/Move.ts": "./chunks/0a/0a5518d4c4f353db7cf3cc55d5acbb23a23d9886.js",
-    "file:///C:/Users/Administrator/Desktop/Ambitious/assets/scripts/Globla/GameManger.ts": "./chunks/c5/c5abb2501194edb2526109ca3d77b8815775e941.js",
-    "file:///C:/Users/Administrator/Desktop/Ambitious/assets/scripts/InitialGame/Strat.ts": "./chunks/0c/0c6b017b22f756fd2a0a57a9dbca97151caf5a8e.js",
-    "file:///C:/Users/Administrator/Desktop/Ambitious/assets/scripts/Warehouse/Createnew.ts": "./chunks/49/498f547f83283d0cc4a6b9b51186dcdc6bda36a0.js",
-    "file:///D:/%E8%BD%AF%E4%BB%B6/%E7%BC%96%E8%BE%91%E5%99%A8/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "./chunks/85/857998cfd81d6474c68fbd026fe3fec7aba6aa28.js"
+    "file:///C:/ProgramData/cocos/editors/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "./chunks/dd/dd8ffe4b66ab421921fe26a7524871e3101b074e.js",
+    "file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts": "./chunks/f7/f78c76407d62e5e9ff89a072e285a0ef7fd7778d.js",
+    "file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Generate.ts": "./chunks/df/dfb7ce6d8ca141a0a8d8214521d9e43e85fdac9a.js",
+    "file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts": "./chunks/b8/b8ed32e7d819d36b6760aebadd346350986f6ea2.js",
+    "file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Globla/GameManger.ts": "./chunks/16/16a2a9bd35f7b32b6df8763c9ec06ca92c9a985c.js",
+    "file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/InitialGame/Strat.ts": "./chunks/65/65d7217e8308768a0e1b37ee54e29e7e3c2f05ff.js",
+    "file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Warehouse/Createnew.ts": "./chunks/1a/1a867b6c7813a0b080648fcae8e39bbeec84d242.js"
   },
   "scopes": {
     "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js": {
@@ -33,37 +33,37 @@
       "__unresolved_9": "cce:/internal/x/cc-fu/particle-2d"
     },
     "./chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js": {
-      "__unresolved_0": "./chunks/6d/6d338a7cb529311899b7a719de6987ace4922da0.js",
-      "__unresolved_1": "./chunks/02/0241d8b6135bbed407583626b642b57e44b458d3.js",
-      "__unresolved_2": "./chunks/0a/0a5518d4c4f353db7cf3cc55d5acbb23a23d9886.js",
-      "__unresolved_3": "./chunks/c5/c5abb2501194edb2526109ca3d77b8815775e941.js",
-      "__unresolved_4": "./chunks/0c/0c6b017b22f756fd2a0a57a9dbca97151caf5a8e.js",
-      "__unresolved_5": "./chunks/49/498f547f83283d0cc4a6b9b51186dcdc6bda36a0.js",
-      "__unresolved_6": "./chunks/85/857998cfd81d6474c68fbd026fe3fec7aba6aa28.js"
+      "__unresolved_0": "./chunks/dd/dd8ffe4b66ab421921fe26a7524871e3101b074e.js",
+      "__unresolved_1": "./chunks/f7/f78c76407d62e5e9ff89a072e285a0ef7fd7778d.js",
+      "__unresolved_2": "./chunks/df/dfb7ce6d8ca141a0a8d8214521d9e43e85fdac9a.js",
+      "__unresolved_3": "./chunks/b8/b8ed32e7d819d36b6760aebadd346350986f6ea2.js",
+      "__unresolved_4": "./chunks/16/16a2a9bd35f7b32b6df8763c9ec06ca92c9a985c.js",
+      "__unresolved_5": "./chunks/65/65d7217e8308768a0e1b37ee54e29e7e3c2f05ff.js",
+      "__unresolved_6": "./chunks/1a/1a867b6c7813a0b080648fcae8e39bbeec84d242.js"
     },
-    "./chunks/85/857998cfd81d6474c68fbd026fe3fec7aba6aa28.js": {
-      "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
-    },
-    "./chunks/49/498f547f83283d0cc4a6b9b51186dcdc6bda36a0.js": {
+    "./chunks/1a/1a867b6c7813a0b080648fcae8e39bbeec84d242.js": {
       "__unresolved_0": "./chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js",
-      "__unresolved_1": "./chunks/c5/c5abb2501194edb2526109ca3d77b8815775e941.js",
+      "__unresolved_1": "./chunks/16/16a2a9bd35f7b32b6df8763c9ec06ca92c9a985c.js",
       "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
     },
-    "./chunks/c5/c5abb2501194edb2526109ca3d77b8815775e941.js": {
+    "./chunks/16/16a2a9bd35f7b32b6df8763c9ec06ca92c9a985c.js": {
       "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
     },
-    "./chunks/0c/0c6b017b22f756fd2a0a57a9dbca97151caf5a8e.js": {
+    "./chunks/65/65d7217e8308768a0e1b37ee54e29e7e3c2f05ff.js": {
       "__unresolved_0": "./chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js",
-      "__unresolved_1": "./chunks/c5/c5abb2501194edb2526109ca3d77b8815775e941.js",
+      "__unresolved_1": "./chunks/16/16a2a9bd35f7b32b6df8763c9ec06ca92c9a985c.js",
       "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
     },
-    "./chunks/0a/0a5518d4c4f353db7cf3cc55d5acbb23a23d9886.js": {
+    "./chunks/b8/b8ed32e7d819d36b6760aebadd346350986f6ea2.js": {
       "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
     },
-    "./chunks/02/0241d8b6135bbed407583626b642b57e44b458d3.js": {
+    "./chunks/df/dfb7ce6d8ca141a0a8d8214521d9e43e85fdac9a.js": {
       "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
     },
-    "./chunks/6d/6d338a7cb529311899b7a719de6987ace4922da0.js": {
+    "./chunks/f7/f78c76407d62e5e9ff89a072e285a0ef7fd7778d.js": {
+      "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
+    },
+    "./chunks/dd/dd8ffe4b66ab421921fe26a7524871e3101b074e.js": {
       "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
     }
   }

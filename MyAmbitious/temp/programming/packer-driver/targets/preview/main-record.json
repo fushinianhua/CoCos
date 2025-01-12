@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 7270.305799999995,
+      "mTimestamp": 8041.22000002861,
       "chunkId": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b",
       "imports": [
         {
@@ -409,11 +409,11 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 2052728.0447999998,
+      "mTimestamp": 10400.492499947548,
       "chunkId": "6d8fd2b0177941b032ddc0733af48a561fb60657",
       "imports": [
         {
-          "value": "file:///C:/Users/Administrator/Desktop/Ambitious/assets/scripts/GetPropenty/GameManager.ts",
+          "value": "file:///C:/ProgramData/cocos/editors/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts",
           "resolved": "__unresolved_0",
           "loc": {
             "start": {
@@ -422,12 +422,12 @@
             },
             "end": {
               "line": 4,
-              "column": 99
+              "column": 139
             }
           }
         },
         {
-          "value": "file:///C:/Users/Administrator/Desktop/Ambitious/assets/scripts/GetPropenty/Generate.ts",
+          "value": "file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts",
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
@@ -436,12 +436,12 @@
             },
             "end": {
               "line": 5,
-              "column": 96
+              "column": 94
             }
           }
         },
         {
-          "value": "file:///C:/Users/Administrator/Desktop/Ambitious/assets/scripts/GetPropenty/Move.ts",
+          "value": "file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Generate.ts",
           "resolved": "__unresolved_2",
           "loc": {
             "start": {
@@ -450,12 +450,12 @@
             },
             "end": {
               "line": 6,
-              "column": 92
+              "column": 91
             }
           }
         },
         {
-          "value": "file:///C:/Users/Administrator/Desktop/Ambitious/assets/scripts/Globla/GameManger.ts",
+          "value": "file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts",
           "resolved": "__unresolved_3",
           "loc": {
             "start": {
@@ -464,12 +464,12 @@
             },
             "end": {
               "line": 7,
-              "column": 93
+              "column": 87
             }
           }
         },
         {
-          "value": "file:///C:/Users/Administrator/Desktop/Ambitious/assets/scripts/InitialGame/Strat.ts",
+          "value": "file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Globla/GameManger.ts",
           "resolved": "__unresolved_4",
           "loc": {
             "start": {
@@ -478,12 +478,12 @@
             },
             "end": {
               "line": 8,
-              "column": 93
+              "column": 88
             }
           }
         },
         {
-          "value": "file:///C:/Users/Administrator/Desktop/Ambitious/assets/scripts/Warehouse/Createnew.ts",
+          "value": "file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/InitialGame/Strat.ts",
           "resolved": "__unresolved_5",
           "loc": {
             "start": {
@@ -492,12 +492,12 @@
             },
             "end": {
               "line": 9,
-              "column": 95
+              "column": 88
             }
           }
         },
         {
-          "value": "file:///D:/%E8%BD%AF%E4%BB%B6/%E7%BC%96%E8%BE%91%E5%99%A8/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts",
+          "value": "file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Warehouse/Createnew.ts",
           "resolved": "__unresolved_6",
           "loc": {
             "start": {
@@ -506,7 +506,7 @@
             },
             "end": {
               "line": 10,
-              "column": 160
+              "column": 90
             }
           }
         }
@@ -516,49 +516,49 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///C:/Users/Administrator/Desktop/Ambitious/assets/scripts/GetPropenty/GameManager.ts"
+            "url": "file:///C:/ProgramData/cocos/editors/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///C:/Users/Administrator/Desktop/Ambitious/assets/scripts/GetPropenty/Generate.ts"
+            "url": "file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///C:/Users/Administrator/Desktop/Ambitious/assets/scripts/GetPropenty/Move.ts"
+            "url": "file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Generate.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///C:/Users/Administrator/Desktop/Ambitious/assets/scripts/Globla/GameManger.ts"
+            "url": "file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///C:/Users/Administrator/Desktop/Ambitious/assets/scripts/InitialGame/Strat.ts"
+            "url": "file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Globla/GameManger.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///C:/Users/Administrator/Desktop/Ambitious/assets/scripts/Warehouse/Createnew.ts"
+            "url": "file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/InitialGame/Strat.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/%E8%BD%AF%E4%BB%B6/%E7%BC%96%E8%BE%91%E5%99%A8/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts"
+            "url": "file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Warehouse/Createnew.ts"
           },
           "messages": []
         }
@@ -909,7 +909,7 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1736337011238,
+      "mTimestamp": 1736645701553,
       "chunkId": "6a5019a719a9014c047e67aa1cf34453ab8392ce",
       "imports": [],
       "type": "esm",
@@ -2555,6 +2555,382 @@
           "resolved": {
             "type": "module",
             "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts": {
+      "mTimestamp": {
+        "mtime": 1736339062636.2742,
+        "uuid": "09598f0c-8d62-4576-a817-fa7fffff96ee"
+      },
+      "chunkId": "f78c76407d62e5e9ff89a072e285a0ef7fd7778d",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 14,
+              "column": 7
+            },
+            "end": {
+              "line": 14,
+              "column": 11
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Generate.ts": {
+      "mTimestamp": {
+        "mtime": 1736002821710.2107,
+        "uuid": "f6c33b8e-3be6-49ee-93f5-0cfcb3251690"
+      },
+      "chunkId": "dfb7ce6d8ca141a0a8d8214521d9e43e85fdac9a",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 13,
+              "column": 7
+            },
+            "end": {
+              "line": 13,
+              "column": 11
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts": {
+      "mTimestamp": {
+        "mtime": 1736338364431.8562,
+        "uuid": "54cb2b42-ba73-4eaf-a711-7ac949db7199"
+      },
+      "chunkId": "b8ed32e7d819d36b6760aebadd346350986f6ea2",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 11,
+              "column": 7
+            },
+            "end": {
+              "line": 11,
+              "column": 11
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Globla/GameManger.ts": {
+      "mTimestamp": {
+        "mtime": 1735291246346.2754,
+        "uuid": "12772528-33df-45a1-9f08-4b75af736dfb"
+      },
+      "chunkId": "16a2a9bd35f7b32b6df8763c9ec06ca92c9a985c",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 48
+            },
+            "end": {
+              "line": 1,
+              "column": 52
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/InitialGame/Strat.ts": {
+      "mTimestamp": {
+        "mtime": 1735208203036.3403,
+        "uuid": "c19e6a94-f1d3-4a12-be1b-d65c708b865a"
+      },
+      "chunkId": "65d7217e8308768a0e1b37ee54e29e7e3c2f05ff",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 69
+            },
+            "end": {
+              "line": 1,
+              "column": 73
+            }
+          }
+        },
+        {
+          "value": "../Globla//GameManger",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 28
+            },
+            "end": {
+              "line": 2,
+              "column": 51
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Globla/GameManger.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Warehouse/Createnew.ts": {
+      "mTimestamp": {
+        "mtime": 1735289988739.7803,
+        "uuid": "f39b31db-622b-4150-a19e-5bbafa66aa79"
+      },
+      "chunkId": "1a867b6c7813a0b080648fcae8e39bbeec84d242",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 12,
+              "column": 7
+            },
+            "end": {
+              "line": 12,
+              "column": 11
+            }
+          }
+        },
+        {
+          "value": "../Globla/GameManger",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 13,
+              "column": 28
+            },
+            "end": {
+              "line": 13,
+              "column": 50
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Globla/GameManger.ts"
           },
           "messages": []
         }
