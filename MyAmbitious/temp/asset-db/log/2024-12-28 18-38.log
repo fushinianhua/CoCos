@@ -1,0 +1,154 @@
+2024-12-28 18:38:09-log: Cannot access game frame or container.
+2024-12-28 18:38:09-debug: asset-db:require-engine-code (896ms)
+2024-12-28 18:38:09-log: meshopt wasm decoder initialized
+2024-12-28 18:38:09-log: [box2d]:box2d wasm lib loaded.
+2024-12-28 18:38:10-log: [bullet]:bullet wasm lib loaded.
+2024-12-28 18:38:10-log: Cocos Creator v3.8.2
+2024-12-28 18:38:10-debug: [Assets Memory track]: asset-db:worker-init: initEngine start:19.39MB, end 104.92MB, increase: 85.53MB
+2024-12-28 18:38:12-debug: [Assets Memory track]: asset-db-plugin-register: engine-extends start:109.22MB, end 174.47MB, increase: 65.25MB
+2024-12-28 18:38:10-debug: [Assets Memory track]: asset-db-plugin-register: programming start:105.71MB, end 109.17MB, increase: 3.46MB
+2024-12-28 18:38:12-debug: [Assets Memory track]: asset-db-plugin-enable: builder start:109.68MB, end 177.95MB, increase: 68.27MB
+2024-12-28 18:38:12-debug: [Assets Memory track]: asset-db-plugin-enable: project start:109.35MB, end 174.48MB, increase: 65.13MB
+2024-12-28 18:38:12-debug: [Assets Memory track]: asset-db:worker-init: initPlugin start:104.93MB, end 174.49MB, increase: 69.56MB
+2024-12-28 18:38:12-debug: run package(assets) handler(enable) start
+2024-12-28 18:38:12-debug: run package(assets) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(console) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(crash-reporter) handler(enable) start
+2024-12-28 18:38:12-debug: run package(crash-reporter) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(console) handler(enable) start
+2024-12-28 18:38:12-debug: run package(extension) handler(enable) start
+2024-12-28 18:38:12-debug: run package(extension) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(hierarchy) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(inspector) handler(enable) start
+2024-12-28 18:38:12-debug: run package(hierarchy) handler(enable) start
+2024-12-28 18:38:12-debug: run package(light-probe) handler(enable) start
+2024-12-28 18:38:12-debug: run package(inspector) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(lightmap) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(light-probe) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(node-library) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(lightmap) handler(enable) start
+2024-12-28 18:38:12-debug: run package(node-library) handler(enable) start
+2024-12-28 18:38:12-debug: run package(package-asset) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(package-asset) handler(enable) start
+2024-12-28 18:38:12-debug: run package(reference-image) handler(enable) start
+2024-12-28 18:38:12-debug: run package(process) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(reflection-probe) handler(enable) start
+2024-12-28 18:38:12-debug: run package(engine-extends) handler(enable) start
+2024-12-28 18:38:12-debug: run package(process) handler(enable) start
+2024-12-28 18:38:12-debug: run package(reference-image) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(reflection-probe) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(adsense-h5g-plugin) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(adsense-h5g-plugin) handler(enable) start
+2024-12-28 18:38:12-debug: run package(engine-extends) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(alipay-mini-game) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(alipay-mini-game) handler(enable) start
+2024-12-28 18:38:12-debug: run package(android) handler(enable) start
+2024-12-28 18:38:12-debug: run package(bytedance-mini-game) handler(enable) start
+2024-12-28 18:38:12-debug: run package(android) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(bytedance-mini-game) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(certificate) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(certificate) handler(enable) start
+2024-12-28 18:38:12-debug: run package(channel-upload-tools) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(channel-upload-tools) handler(enable) start
+2024-12-28 18:38:12-debug: run package(fb-instant-games) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(huawei-agc) handler(enable) start
+2024-12-28 18:38:12-debug: run package(fb-instant-games) handler(enable) start
+2024-12-28 18:38:12-debug: run package(huawei-quick-game) handler(enable) start
+2024-12-28 18:38:12-debug: run package(huawei-agc) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(huawei-quick-game) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(ios) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(ios) handler(enable) start
+2024-12-28 18:38:12-debug: run package(linux) handler(enable) start
+2024-12-28 18:38:12-debug: run package(linux) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(mac) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(mac) handler(enable) start
+2024-12-28 18:38:12-debug: run package(ohos) handler(enable) start
+2024-12-28 18:38:12-debug: run package(native) handler(enable) start
+2024-12-28 18:38:12-debug: run package(native) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(openharmony) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(ohos) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(openharmony) handler(enable) start
+2024-12-28 18:38:12-debug: run package(oppo-mini-game) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(runtime-dev-tools) handler(enable) start
+2024-12-28 18:38:12-debug: run package(oppo-mini-game) handler(enable) start
+2024-12-28 18:38:12-debug: run package(runtime-dev-tools) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(taobao-creative-app) handler(enable) start
+2024-12-28 18:38:12-debug: run package(taobao-mini-game) handler(enable) start
+2024-12-28 18:38:12-debug: run package(taobao-creative-app) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(vivo-mini-game) handler(enable) start
+2024-12-28 18:38:12-debug: run package(taobao-mini-game) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(vivo-mini-game) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(web-desktop) handler(enable) start
+2024-12-28 18:38:12-debug: run package(web-mobile) handler(enable) start
+2024-12-28 18:38:12-debug: run package(web-desktop) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(web-mobile) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(wechatprogram) handler(enable) start
+2024-12-28 18:38:12-debug: run package(wechatprogram) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(wechatgame) handler(enable) start
+2024-12-28 18:38:12-debug: run package(wechatgame) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(windows) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(windows) handler(enable) start
+2024-12-28 18:38:12-debug: run package(cocos-service) handler(enable) start
+2024-12-28 18:38:12-debug: run package(xiaomi-quick-game) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(cocos-service) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(xiaomi-quick-game) handler(enable) start
+2024-12-28 18:38:12-debug: run package(im-plugin) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(fix-device) handler(enable) start
+2024-12-28 18:38:12-debug: run package(fix-device) handler(enable) success!
+2024-12-28 18:38:12-debug: run package(placeholder) handler(enable) start
+2024-12-28 18:38:12-debug: run package(placeholder) handler(enable) success!
+2024-12-28 18:38:12-debug: asset-db:worker-init: initPlugin (2254ms)
+2024-12-28 18:38:12-debug: run package(im-plugin) handler(enable) start
+2024-12-28 18:38:12-debug: [Assets Memory track]: asset-db:worker-init start:19.39MB, end 175.82MB, increase: 156.43MB
+2024-12-28 18:38:12-debug: Run asset db hook engine-extends:beforePreStart ...
+2024-12-28 18:38:12-debug: Run asset db hook engine-extends:beforePreStart success!
+2024-12-28 18:38:12-debug: Run asset db hook programming:beforePreStart ...
+2024-12-28 18:38:12-debug: Run asset db hook programming:beforePreStart success!
+2024-12-28 18:38:13-debug: asset-db:worker-init (4290ms)
+2024-12-28 18:38:13-debug: asset-db-hook-programming-beforePreStart (433ms)
+2024-12-28 18:38:13-debug: asset-db-hook-engine-extends-beforePreStart (432ms)
+2024-12-28 18:38:13-debug: Preimport db internal success
+2024-12-28 18:38:13-debug: Run asset db hook programming:afterPreStart ...
+2024-12-28 18:38:13-debug: Preimport db assets success
+2024-12-28 18:38:13-debug: starting packer-driver...
+2024-12-28 18:38:13-debug: initialize scripting environment...
+2024-12-28 18:38:13-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-12-28 18:38:13-debug: Run asset db hook engine-extends:afterPreStart success!
+2024-12-28 18:38:13-debug: Run asset db hook programming:afterPreStart success!
+2024-12-28 18:38:13-debug: [Assets Memory track]: asset-db:worker-init: preStart start:175.82MB, end 189.34MB, increase: 13.51MB
+2024-12-28 18:38:13-debug: Run asset db hook engine-extends:afterPreStart ...
+2024-12-28 18:38:13-debug: Start up the 'internal' database...
+2024-12-28 18:38:13-debug: asset-db-hook-programming-afterPreStart (542ms)
+2024-12-28 18:38:13-debug: asset-db-hook-engine-extends-afterPreStart (53ms)
+2024-12-28 18:38:13-debug: asset-db:worker-effect-data-processing (53ms)
+2024-12-28 18:38:13-debug: Start up the 'assets' database...
+2024-12-28 18:38:13-debug: [Assets Memory track]: asset-db:worker-startup-database[internal] start:188.00MB, end 193.93MB, increase: 5.92MB
+2024-12-28 18:38:13-debug: asset-db:worker-startup-database[internal] (774ms)
+2024-12-28 18:38:13-debug: [Assets Memory track]: asset-db:worker-startup-database[assets] start:191.20MB, end 194.32MB, increase: 3.13MB
+2024-12-28 18:38:13-debug: [Assets Memory track]: asset-db:worker-init: startup start:189.34MB, end 194.33MB, increase: 4.99MB
+2024-12-28 18:38:13-debug: asset-db:worker-startup-database[assets] (614ms)
+2024-12-28 18:38:13-debug: asset-db:ready (6884ms)
+2024-12-28 18:38:13-debug: asset-db:start-database (1084ms)
+2024-12-28 18:38:13-debug: init worker message success
+2024-12-28 18:38:14-debug: [Build Memory track]: builder:worker-init start:189.96MB, end 202.19MB, increase: 12.22MB
+2024-12-28 18:38:14-debug: programming:execute-script (5ms)
+2024-12-28 18:38:14-debug: builder:worker-init (550ms)
+2024-12-28 18:38:16-debug: programming:execute-script (6ms)
+2024-12-28 18:38:26-debug: refresh db internal success
+2024-12-28 18:38:26-debug: refresh db assets success
+2024-12-28 18:38:26-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-12-28 18:38:26-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-12-28 18:38:26-debug: asset-db:refresh-all-database (142ms)
+2024-12-28 18:38:26-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-12-28 18:38:33-debug: start refresh asset from C:\Users\辛鹏\Desktop\CCS\AmbitiousApp\Ambitious\assets\scenes\PlayerGeProperty(获取属性).scene...
+2024-12-28 18:38:33-debug: %cImport%c: C:\Users\辛鹏\Desktop\CCS\AmbitiousApp\Ambitious\assets\scenes\PlayerGeProperty(获取属性).scenebackground: #aaff85; color: #000;color: #000;
+2024-12-28 18:38:33-debug: refresh asset C:\Users\辛鹏\Desktop\CCS\AmbitiousApp\Ambitious\assets\scenes success
+2024-12-28 18:38:33-debug: start refresh asset from C:\Users\辛鹏\Desktop\CCS\AmbitiousApp\Ambitious\assets\scenes\PlayerGeProperty(获取属性).scene...
+2024-12-28 18:38:33-debug: %cImport%c: C:\Users\辛鹏\Desktop\CCS\AmbitiousApp\Ambitious\assets\scenes\PlayerGeProperty(获取属性).scenebackground: #aaff85; color: #000;color: #000;
+2024-12-28 18:38:33-debug: refresh asset C:\Users\辛鹏\Desktop\CCS\AmbitiousApp\Ambitious\assets\scenes success
+2024-12-28 18:38:33-debug: start refresh asset from C:\Users\辛鹏\Desktop\CCS\AmbitiousApp\Ambitious\assets\scenes\PlayerGeProperty(获取属性).scene...
+2024-12-28 18:38:34-debug: %cImport%c: C:\Users\辛鹏\Desktop\CCS\AmbitiousApp\Ambitious\assets\scenes\PlayerGeProperty(获取属性).scenebackground: #aaff85; color: #000;color: #000;
+2024-12-28 18:38:34-debug: refresh asset C:\Users\辛鹏\Desktop\CCS\AmbitiousApp\Ambitious\assets\scenes success
+2024-12-28 18:38:42-debug: start refresh asset from C:\Users\辛鹏\Desktop\CCS\AmbitiousApp\Ambitious\assets\scenes\PlayerGeProperty(获取属性).scene...
+2024-12-28 18:38:42-debug: %cImport%c: C:\Users\辛鹏\Desktop\CCS\AmbitiousApp\Ambitious\assets\scenes\PlayerGeProperty(获取属性).scenebackground: #aaff85; color: #000;color: #000;
+2024-12-28 18:38:42-debug: refresh asset C:\Users\辛鹏\Desktop\CCS\AmbitiousApp\Ambitious\assets\scenes success

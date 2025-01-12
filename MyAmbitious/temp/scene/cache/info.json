@@ -1,0 +1,12 @@
+{
+    "systemInfo": {
+        "arch": "x64",
+        "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+        "version": "Windows 10 Pro"
+    },
+    "sceneListMap": {
+        "e3d072e9-6a33-4b2e-a733-623f298aa72d": "C:\\Users\\Administrator\\Desktop\\Ambitious\\assets\\scenes\\PlayerGeProperty(获取属性).scene",
+        "8325a6f3-774e-41e2-9e1a-36922b698ee3": "C:\\Users\\Administrator\\Desktop\\Ambitious\\assets\\scenes\\scene.scene"
+    },
+    "deviceMd5": "55c6d6a9fb5e3616c584f805544b77a9"
+}
