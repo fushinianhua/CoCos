@@ -630,7 +630,7 @@
     "__prefab": {
       "__id__": 28
     },
-    "enabledContactListener": false,
+    "enabledContactListener": true,
     "bullet": true,
     "awakeOnLoad": true,
     "_group": 1,

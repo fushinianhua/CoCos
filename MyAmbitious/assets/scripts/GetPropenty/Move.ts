@@ -9,6 +9,7 @@ import {
   Vec2,
   Vec3,
 } from "cc";
+import { GameManager } from "./GameManager";
 const { ccclass, property } = _decorator;
 
 @ccclass("Move")
@@ -28,6 +29,7 @@ export class Move extends Component {
     this.addTouch();
   }
   protected start(): void {
+    console.log("开始游戏");
     this.scheduleOnce(() => {
       // 移除触摸事件
       this.removeTouch();
@@ -43,11 +45,13 @@ export class Move extends Component {
         { easing: "backInOut" }
       );
       // 移动节点效果
-      let t2 = tween(this.node).to(2, { position: new Vec3(0, 170, 0) });
+      let t2 = tween(this.node).to(2, { position: new Vec3(0, 260, 0) });
       // 动画结束后执行回调函数，然后开始移动节点的效果
       t1.call(() => {
         t2.start();
-        this.restratpanel.active = true;
+        this.scheduleOnce(() => {
+          this.restratpanel.active = true;
+        });
       }).start();
     }, 8);
   }

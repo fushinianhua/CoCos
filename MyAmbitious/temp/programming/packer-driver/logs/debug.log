@@ -218,3 +218,203 @@ Feature changed: false
 09:35:11 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/InitialGame/Strat.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/InitialGame/Strat.ts.
 09:35:11 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Warehouse/Createnew.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Warehouse/Createnew.ts.
 09:35:11 debug: Target(preview) ends with cost 58.94669997692108ms.
+09:57:02 debug: Dispatch build request for time accumulated 1 asset changes.
+09:57:02 debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+09:57:02 debug: Target(editor) build started.
+09:57:02 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:10 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:22:01 GMT+0800 (中国标准时间)
+09:57:02 debug: Inspect cce:/internal/x/prerequisite-imports
+09:57:02 debug: Resolve file:///C:/ProgramData/cocos/editors/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///C:/ProgramData/cocos/editors/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+09:57:02 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts.
+09:57:02 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Generate.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Generate.ts.
+09:57:02 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts.
+09:57:02 debug: Detected change: file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts. Last mtime: Wed Jan 08 2025 20:12:44 GMT+0800 (中国标准时间)@54cb2b42-ba73-4eaf-a711-7ac949db7199, Current mtime: Sun Jan 12 2025 09:57:02 GMT+0800 (中国标准时间)@54cb2b42-ba73-4eaf-a711-7ac949db7199
+09:57:02 debug: Inspect file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts
+09:57:02 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts as cce:/internal/x/cc.
+09:57:02 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts as cce:/internal/x/cc.
+09:57:02 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts as cce:/internal/x/cc.
+09:57:02 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Globla/GameManger.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Globla/GameManger.ts.
+09:57:02 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/InitialGame/Strat.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/InitialGame/Strat.ts.
+09:57:02 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Warehouse/Createnew.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Warehouse/Createnew.ts.
+09:57:02 debug: Target(editor) ends with cost 176.17809998989105ms.
+09:57:02 debug: Target(preview) build started.
+09:57:02 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:10 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:22:01 GMT+0800 (中国标准时间)
+09:57:02 debug: Inspect cce:/internal/x/prerequisite-imports
+09:57:02 debug: Resolve file:///C:/ProgramData/cocos/editors/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///C:/ProgramData/cocos/editors/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+09:57:02 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts.
+09:57:02 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Generate.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Generate.ts.
+09:57:02 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts.
+09:57:02 debug: Detected change: file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts. Last mtime: Wed Jan 08 2025 20:12:44 GMT+0800 (中国标准时间)@54cb2b42-ba73-4eaf-a711-7ac949db7199, Current mtime: Sun Jan 12 2025 09:57:02 GMT+0800 (中国标准时间)@54cb2b42-ba73-4eaf-a711-7ac949db7199
+09:57:02 debug: Inspect file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts
+09:57:02 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts as cce:/internal/x/cc.
+09:57:02 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts as cce:/internal/x/cc.
+09:57:02 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts as cce:/internal/x/cc.
+09:57:02 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Globla/GameManger.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Globla/GameManger.ts.
+09:57:02 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/InitialGame/Strat.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/InitialGame/Strat.ts.
+09:57:02 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Warehouse/Createnew.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Warehouse/Createnew.ts.
+09:57:02 debug: Target(preview) ends with cost 142.75739991664886ms.
+10:35:25 debug: Dispatch build request for time accumulated 1 asset changes.
+10:35:25 debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+10:35:25 debug: Target(editor) build started.
+10:35:25 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:22:01 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 09:00:23 GMT+0800 (中国标准时间)
+10:35:25 debug: Inspect cce:/internal/x/prerequisite-imports
+10:35:25 debug: Resolve file:///C:/ProgramData/cocos/editors/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///C:/ProgramData/cocos/editors/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+10:35:25 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts.
+10:35:25 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Generate.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Generate.ts.
+10:35:25 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts.
+10:35:25 debug: Detected change: file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts. Last mtime: Sun Jan 12 2025 09:57:02 GMT+0800 (中国标准时间)@54cb2b42-ba73-4eaf-a711-7ac949db7199, Current mtime: Sun Jan 12 2025 10:35:20 GMT+0800 (中国标准时间)@54cb2b42-ba73-4eaf-a711-7ac949db7199
+10:35:25 debug: Inspect file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts
+10:35:25 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts as cce:/internal/x/cc.
+10:35:25 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts as cce:/internal/x/cc.
+10:35:25 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts as cce:/internal/x/cc.
+10:35:25 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Globla/GameManger.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Globla/GameManger.ts.
+10:35:25 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/InitialGame/Strat.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/InitialGame/Strat.ts.
+10:35:25 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Warehouse/Createnew.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Warehouse/Createnew.ts.
+10:35:25 debug: Target(editor) ends with cost 121.03690004348755ms.
+10:35:25 debug: Target(preview) build started.
+10:35:25 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:22:01 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 09:00:24 GMT+0800 (中国标准时间)
+10:35:25 debug: Inspect cce:/internal/x/prerequisite-imports
+10:35:25 debug: Resolve file:///C:/ProgramData/cocos/editors/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///C:/ProgramData/cocos/editors/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+10:35:25 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts.
+10:35:25 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Generate.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Generate.ts.
+10:35:25 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts.
+10:35:25 debug: Detected change: file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts. Last mtime: Sun Jan 12 2025 09:57:02 GMT+0800 (中国标准时间)@54cb2b42-ba73-4eaf-a711-7ac949db7199, Current mtime: Sun Jan 12 2025 10:35:20 GMT+0800 (中国标准时间)@54cb2b42-ba73-4eaf-a711-7ac949db7199
+10:35:25 debug: Inspect file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts
+10:35:25 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts as cce:/internal/x/cc.
+10:35:25 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts as cce:/internal/x/cc.
+10:35:25 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts as cce:/internal/x/cc.
+10:35:25 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Globla/GameManger.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Globla/GameManger.ts.
+10:35:25 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/InitialGame/Strat.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/InitialGame/Strat.ts.
+10:35:25 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Warehouse/Createnew.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Warehouse/Createnew.ts.
+10:35:25 debug: Target(preview) ends with cost 122.90139997005463ms.
+10:39:29 debug: Dispatch build request for time accumulated 2 asset changes.
+10:39:29 debug: Build iteration starts.
+Number of accumulated asset changes: 2
+Feature changed: false
+10:39:29 debug: Target(editor) build started.
+10:39:29 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:00:23 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 09:04:28 GMT+0800 (中国标准时间)
+10:39:29 debug: Inspect cce:/internal/x/prerequisite-imports
+10:39:29 debug: Resolve file:///C:/ProgramData/cocos/editors/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///C:/ProgramData/cocos/editors/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+10:39:29 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts.
+10:39:29 debug: Detected change: file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts. Last mtime: Wed Jan 08 2025 20:24:22 GMT+0800 (中国标准时间)@09598f0c-8d62-4576-a817-fa7fffff96ee, Current mtime: Sun Jan 12 2025 10:39:27 GMT+0800 (中国标准时间)@09598f0c-8d62-4576-a817-fa7fffff96ee
+10:39:29 debug: Inspect file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts
+10:39:29 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts as cce:/internal/x/cc.
+10:39:29 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts as cce:/internal/x/cc.
+10:39:29 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts as cce:/internal/x/cc.
+10:39:29 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Generate.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Generate.ts.
+10:39:29 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts.
+10:39:29 debug: Detected change: file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts. Last mtime: Sun Jan 12 2025 10:35:20 GMT+0800 (中国标准时间)@54cb2b42-ba73-4eaf-a711-7ac949db7199, Current mtime: Sun Jan 12 2025 10:36:46 GMT+0800 (中国标准时间)@54cb2b42-ba73-4eaf-a711-7ac949db7199
+10:39:29 debug: Inspect file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts
+10:39:29 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts as cce:/internal/x/cc.
+10:39:29 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts as cce:/internal/x/cc.
+10:39:29 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts as cce:/internal/x/cc.
+10:39:29 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Globla/GameManger.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Globla/GameManger.ts.
+10:39:29 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/InitialGame/Strat.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/InitialGame/Strat.ts.
+10:39:29 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Warehouse/Createnew.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Warehouse/Createnew.ts.
+10:39:29 debug: Target(editor) ends with cost 205.7717000246048ms.
+10:39:29 debug: Target(preview) build started.
+10:39:29 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:00:24 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 09:04:28 GMT+0800 (中国标准时间)
+10:39:29 debug: Inspect cce:/internal/x/prerequisite-imports
+10:39:29 debug: Resolve file:///C:/ProgramData/cocos/editors/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///C:/ProgramData/cocos/editors/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+10:39:29 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts.
+10:39:29 debug: Detected change: file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts. Last mtime: Wed Jan 08 2025 20:24:22 GMT+0800 (中国标准时间)@09598f0c-8d62-4576-a817-fa7fffff96ee, Current mtime: Sun Jan 12 2025 10:39:27 GMT+0800 (中国标准时间)@09598f0c-8d62-4576-a817-fa7fffff96ee
+10:39:29 debug: Inspect file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts
+10:39:29 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts as cce:/internal/x/cc.
+10:39:29 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts as cce:/internal/x/cc.
+10:39:29 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts as cce:/internal/x/cc.
+10:39:29 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Generate.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Generate.ts.
+10:39:29 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts.
+10:39:29 debug: Detected change: file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts. Last mtime: Sun Jan 12 2025 10:35:20 GMT+0800 (中国标准时间)@54cb2b42-ba73-4eaf-a711-7ac949db7199, Current mtime: Sun Jan 12 2025 10:36:46 GMT+0800 (中国标准时间)@54cb2b42-ba73-4eaf-a711-7ac949db7199
+10:39:29 debug: Inspect file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts
+10:39:29 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts as cce:/internal/x/cc.
+10:39:29 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts as cce:/internal/x/cc.
+10:39:29 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts as cce:/internal/x/cc.
+10:39:29 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Globla/GameManger.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Globla/GameManger.ts.
+10:39:29 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/InitialGame/Strat.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/InitialGame/Strat.ts.
+10:39:29 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Warehouse/Createnew.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Warehouse/Createnew.ts.
+10:39:29 debug: Target(preview) ends with cost 192.00859999656677ms.
+10:46:56 debug: Dispatch build request for time accumulated 1 asset changes.
+10:46:56 debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+10:46:56 debug: Target(editor) build started.
+10:46:56 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:04:28 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 09:11:54 GMT+0800 (中国标准时间)
+10:46:56 debug: Inspect cce:/internal/x/prerequisite-imports
+10:46:56 debug: Resolve file:///C:/ProgramData/cocos/editors/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///C:/ProgramData/cocos/editors/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+10:46:56 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts.
+10:46:56 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Generate.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Generate.ts.
+10:46:56 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts.
+10:46:56 debug: Detected change: file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts. Last mtime: Sun Jan 12 2025 10:36:46 GMT+0800 (中国标准时间)@54cb2b42-ba73-4eaf-a711-7ac949db7199, Current mtime: Sun Jan 12 2025 10:46:54 GMT+0800 (中国标准时间)@54cb2b42-ba73-4eaf-a711-7ac949db7199
+10:46:56 debug: Inspect file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts
+10:46:56 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts as cce:/internal/x/cc.
+10:46:56 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts as cce:/internal/x/cc.
+10:46:56 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts as cce:/internal/x/cc.
+10:46:56 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Globla/GameManger.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Globla/GameManger.ts.
+10:46:56 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/InitialGame/Strat.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/InitialGame/Strat.ts.
+10:46:56 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Warehouse/Createnew.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Warehouse/Createnew.ts.
+10:46:56 debug: Target(editor) ends with cost 105.5702999830246ms.
+10:46:56 debug: Target(preview) build started.
+10:46:56 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:04:28 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 09:11:54 GMT+0800 (中国标准时间)
+10:46:56 debug: Inspect cce:/internal/x/prerequisite-imports
+10:46:56 debug: Resolve file:///C:/ProgramData/cocos/editors/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///C:/ProgramData/cocos/editors/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+10:46:56 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts.
+10:46:56 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Generate.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Generate.ts.
+10:46:56 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts.
+10:46:56 debug: Detected change: file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts. Last mtime: Sun Jan 12 2025 10:36:46 GMT+0800 (中国标准时间)@54cb2b42-ba73-4eaf-a711-7ac949db7199, Current mtime: Sun Jan 12 2025 10:46:54 GMT+0800 (中国标准时间)@54cb2b42-ba73-4eaf-a711-7ac949db7199
+10:46:56 debug: Inspect file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts
+10:46:56 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts as cce:/internal/x/cc.
+10:46:56 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts as cce:/internal/x/cc.
+10:46:56 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts as cce:/internal/x/cc.
+10:46:56 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Globla/GameManger.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Globla/GameManger.ts.
+10:46:56 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/InitialGame/Strat.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/InitialGame/Strat.ts.
+10:46:56 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Warehouse/Createnew.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Warehouse/Createnew.ts.
+10:46:56 debug: Target(preview) ends with cost 108.38170003890991ms.
+10:54:16 debug: Dispatch build request for time accumulated 2 asset changes.
+10:54:16 debug: Build iteration starts.
+Number of accumulated asset changes: 2
+Feature changed: false
+10:54:16 debug: Target(editor) build started.
+10:54:16 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:11:54 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 09:19:15 GMT+0800 (中国标准时间)
+10:54:16 debug: Inspect cce:/internal/x/prerequisite-imports
+10:54:16 debug: Resolve file:///C:/ProgramData/cocos/editors/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///C:/ProgramData/cocos/editors/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+10:54:16 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts.
+10:54:16 debug: Detected change: file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts. Last mtime: Sun Jan 12 2025 10:39:27 GMT+0800 (中国标准时间)@09598f0c-8d62-4576-a817-fa7fffff96ee, Current mtime: Sun Jan 12 2025 10:49:47 GMT+0800 (中国标准时间)@09598f0c-8d62-4576-a817-fa7fffff96ee
+10:54:16 debug: Inspect file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts
+10:54:16 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts as cce:/internal/x/cc.
+10:54:16 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts as cce:/internal/x/cc.
+10:54:16 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts as cce:/internal/x/cc.
+10:54:16 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Generate.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Generate.ts.
+10:54:16 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts.
+10:54:16 debug: Detected change: file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts. Last mtime: Sun Jan 12 2025 10:46:54 GMT+0800 (中国标准时间)@54cb2b42-ba73-4eaf-a711-7ac949db7199, Current mtime: Sun Jan 12 2025 10:54:01 GMT+0800 (中国标准时间)@54cb2b42-ba73-4eaf-a711-7ac949db7199
+10:54:16 debug: Inspect file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts
+10:54:17 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts as cce:/internal/x/cc.
+10:54:17 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts as cce:/internal/x/cc.
+10:54:17 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts as cce:/internal/x/cc.
+10:54:17 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Globla/GameManger.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Globla/GameManger.ts.
+10:54:17 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/InitialGame/Strat.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/InitialGame/Strat.ts.
+10:54:17 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Warehouse/Createnew.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Warehouse/Createnew.ts.
+10:54:17 debug: Target(editor) ends with cost 157.724799990654ms.
+10:54:17 debug: Target(preview) build started.
+10:54:17 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:11:54 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 09:19:15 GMT+0800 (中国标准时间)
+10:54:17 debug: Inspect cce:/internal/x/prerequisite-imports
+10:54:17 debug: Resolve file:///C:/ProgramData/cocos/editors/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///C:/ProgramData/cocos/editors/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+10:54:17 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts.
+10:54:17 debug: Detected change: file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts. Last mtime: Sun Jan 12 2025 10:39:27 GMT+0800 (中国标准时间)@09598f0c-8d62-4576-a817-fa7fffff96ee, Current mtime: Sun Jan 12 2025 10:49:47 GMT+0800 (中国标准时间)@09598f0c-8d62-4576-a817-fa7fffff96ee
+10:54:17 debug: Inspect file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts
+10:54:17 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts as cce:/internal/x/cc.
+10:54:17 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts as cce:/internal/x/cc.
+10:54:17 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts as cce:/internal/x/cc.
+10:54:17 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Generate.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Generate.ts.
+10:54:17 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts.
+10:54:17 debug: Detected change: file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts. Last mtime: Sun Jan 12 2025 10:46:54 GMT+0800 (中国标准时间)@54cb2b42-ba73-4eaf-a711-7ac949db7199, Current mtime: Sun Jan 12 2025 10:54:01 GMT+0800 (中国标准时间)@54cb2b42-ba73-4eaf-a711-7ac949db7199
+10:54:17 debug: Inspect file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts
+10:54:17 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts as cce:/internal/x/cc.
+10:54:17 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts as cce:/internal/x/cc.
+10:54:17 debug: Resolve cc from file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts as cce:/internal/x/cc.
+10:54:17 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Globla/GameManger.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Globla/GameManger.ts.
+10:54:17 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/InitialGame/Strat.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/InitialGame/Strat.ts.
+10:54:17 debug: Resolve file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Warehouse/Createnew.ts from cce:/internal/x/prerequisite-imports as file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Warehouse/Createnew.ts.
+10:54:17 debug: Target(preview) ends with cost 233.52349996566772ms.

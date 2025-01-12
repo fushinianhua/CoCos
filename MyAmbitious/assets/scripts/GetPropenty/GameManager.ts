@@ -16,7 +16,7 @@ const { ccclass, property } = _decorator;
 
 @ccclass("GameManager")
 export class GameManager extends Component {
-  private static _instance: GameManager;
+  private static _instance: GameManager = new GameManager();
   @property(Prefab)
   prefabLabel: Prefab;
   @property([String])
@@ -30,10 +30,10 @@ export class GameManager extends Component {
   protected onLoad(): void {
     //确保全局只有一个实例
     if (GameManager._instance == null) {
-      GameManager._instance = this;
+      GameManager._instance = new GameManager();
     } else {
-      console.log("GameManager is already exist");
-      this.node.destroy();
+      GameManager._instance = this;
+
       return;
     }
   }

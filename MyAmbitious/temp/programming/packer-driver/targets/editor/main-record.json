@@ -640,7 +640,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 10329.736400008202,
+      "mTimestamp": 4755402.466300011,
       "chunkId": "6d8fd2b0177941b032ddc0733af48a561fb60657",
       "imports": [
         {
@@ -2793,7 +2793,7 @@
     },
     "file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/GameManager.ts": {
       "mTimestamp": {
-        "mtime": 1736339062636.2742,
+        "mtime": 1736650187387.902,
         "uuid": "09598f0c-8d62-4576-a817-fa7fffff96ee"
       },
       "chunkId": "f78c76407d62e5e9ff89a072e285a0ef7fd7778d",
@@ -2897,7 +2897,7 @@
     },
     "file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Move.ts": {
       "mTimestamp": {
-        "mtime": 1736338364431.8562,
+        "mtime": 1736650441288.421,
         "uuid": "54cb2b42-ba73-4eaf-a711-7ac949db7199"
       },
       "chunkId": "b8ed32e7d819d36b6760aebadd346350986f6ea2",
