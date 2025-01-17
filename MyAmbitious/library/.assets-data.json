@@ -29,9 +29,12 @@
       "depends": [
         "52d4f6bd-2fd3-4baf-9469-6cf02da46b4d",
         "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "37766315-1ad3-43ba-bf5c-a68dd197e7fd",
         "e46d5455-4634-4b80-be6c-319d8fdd925c"
       ],
-      "dependScripts": []
+      "dependScripts": [
+        "CC3eba29-7abb-723a-f7ab-ae275e2277e8"
+      ]
     },
     "versionCode": 0
   },
