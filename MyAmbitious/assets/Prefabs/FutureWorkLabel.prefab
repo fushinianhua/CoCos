@@ -79,7 +79,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 350,
+      "width": 300,
       "height": 63
     },
     "_anchorPoint": {
@@ -115,7 +115,7 @@
       "b": 62,
       "a": 255
     },
-    "_string": "我未来的工作是",
+    "_string": "获得的属性为",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 50,

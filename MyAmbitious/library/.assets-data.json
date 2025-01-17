@@ -185,14 +185,7 @@
   },
   "bb4a9d92-ff21-4aa5-a0b6-2aad8e51f3f5": {
     "url": "db://assets/Prefabs/PropenrtyName.prefab",
-    "value": {
-      "depends": [
-        "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941"
-      ],
-      "dependScripts": [
-        "aa1bf362-0f2b-4cba-ac32-c367d653861e"
-      ]
-    },
+    "value": {},
     "versionCode": 0
   },
   "f6c33b8e-3be6-49ee-93f5-0cfcb3251690": {
@@ -211,9 +204,14 @@
       "depends": [
         "8325a6f3-774e-41e2-9e1a-36922b698ee3",
         "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "37766315-1ad3-43ba-bf5c-a68dd197e7fd",
+        "f420ac18-2c0d-4035-a4cf-5c22b9a6cdc7",
         "e46d5455-4634-4b80-be6c-319d8fdd925c"
       ],
-      "dependScripts": []
+      "dependScripts": [
+        "CC3eba29-7abb-723a-f7ab-ae275e2277e8",
+        "09598f0c-8d62-4576-a817-fa7fffff96ee"
+      ]
     },
     "versionCode": 0
   },

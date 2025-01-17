@@ -297,7 +297,7 @@
       "uuid": "8325a6f3-774e-41e2-9e1a-36922b698ee3"
     },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs": {
-      "time": 1736645122030.998,
+      "time": 1737110264255.1155,
       "uuid": "e847b3bf-0699-4612-97fc-9532d7967291"
     },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scenes": {
@@ -392,19 +392,15 @@
       "uuid": "37766315-1ad3-43ba-bf5c-a68dd197e7fd"
     },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs\\FutureWorkLabel.prefab": {
-      "time": 1736003263345.373,
+      "time": 1737110179225.7295,
       "uuid": "f420ac18-2c0d-4035-a4cf-5c22b9a6cdc7"
-    },
-    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs\\PropenrtyName.prefab": {
-      "time": 1736003462585.1077,
-      "uuid": "bb4a9d92-ff21-4aa5-a0b6-2aad8e51f3f5"
     },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs\\WareHouse.prefab": {
       "time": 1735088480754.0266,
       "uuid": "a8c4d183-af91-48fe-8ddc-bdf5e94f79d2"
     },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs\\WorkLabel.prefab": {
-      "time": 1736337548429.014,
+      "time": 1737111343777.8352,
       "uuid": "8069a5fc-174a-4948-aa53-82497b013204"
     },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scenes\\GameInitialScene(初始界面).scene": {
@@ -412,15 +408,12 @@
       "uuid": "52d4f6bd-2fd3-4baf-9469-6cf02da46b4d"
     },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scenes\\GetPropentyScebe(获取属性).scene": {
-      "time": 1736651315912.8586,
+      "time": 1737112544607.0256,
       "uuid": "8325a6f3-774e-41e2-9e1a-36922b698ee3"
     },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scenes\\WarehouseScene(仓库页面).scene": {
       "time": 1736645834608.4824,
       "uuid": "d60694b3-fb4a-456d-84f8-2d2881489b29"
-    },
-    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs\\PropenrtyName.prefab.meta": {
-      "time": 1735379566249.721
     },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs\\Basket.prefab.meta": {
       "time": 1736337412299.5525
@@ -579,6 +572,11 @@
       "path": "C:\\Users\\Administrator\\Desktop\\Ambitious\\assets\\scenes\\scene.scene",
       "time": 1736338580861.4407,
       "removeTime": 1736338582208
+    },
+    "bb4a9d92-ff21-4aa5-a0b6-2aad8e51f3f5": {
+      "path": "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs\\PropenrtyName.prefab",
+      "time": 1736003462585.1077,
+      "removeTime": 1737110264264
     }
   }
 }
