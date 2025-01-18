@@ -11,8 +11,12 @@ export class GameManager extends Component {
 
   public _Store: number = null; // 玩家商店数据
   private STORE: string = "store"; // 本地存储中玩家商店数据的键
+  public _PlayProentry: string = null;
+  private PLAYPROENTRY: string = "playproentry"; // 本地存储中玩家商店数据的键
+
   private _MaxShelfCount: number = null;
   private SHELFCOUNT: string = "shelfcount";
+
   private static _inst: GameManager = null; // 游戏管理器的单例实例
 
   public static inst() {
@@ -32,6 +36,7 @@ export class GameManager extends Component {
     this._Money = this.ReadPlayerData(this.MONEY, 100);
     this._Store = this.ReadPlayerData(this.STORE, 1);
     this._MaxShelfCount = this.ReadPlayerData(this.SHELFCOUNT, 6);
+    this._PlayProentry = this.ReadPlayerData(this.PLAYPROENTRY, "");
   }
 
   /**

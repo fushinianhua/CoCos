@@ -640,7 +640,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 3630377.281399995,
+      "mTimestamp": 36835119.389699996,
       "chunkId": "6d8fd2b0177941b032ddc0733af48a561fb60657",
       "imports": [
         {
@@ -2845,7 +2845,7 @@
     },
     "file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/GetPropenty/Generate.ts": {
       "mTimestamp": {
-        "mtime": 1736002821710.2107,
+        "mtime": 1737196790780.9329,
         "uuid": "f6c33b8e-3be6-49ee-93f5-0cfcb3251690"
       },
       "chunkId": "dfb7ce6d8ca141a0a8d8214521d9e43e85fdac9a",
@@ -2981,7 +2981,7 @@
     },
     "file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/Globla/GameManger.ts": {
       "mTimestamp": {
-        "mtime": 1735291246346.2754,
+        "mtime": 1737190217671.3,
         "uuid": "12772528-33df-45a1-9f08-4b75af736dfb"
       },
       "chunkId": "16a2a9bd35f7b32b6df8763c9ec06ca92c9a985c",
@@ -3033,7 +3033,7 @@
     },
     "file:///D:/Github_project/CoCos/MyAmbitious/assets/scripts/InitialGame/Strat.ts": {
       "mTimestamp": {
-        "mtime": 1735208203036.3403,
+        "mtime": 1737190215712.5962,
         "uuid": "c19e6a94-f1d3-4a12-be1b-d65c708b865a"
       },
       "chunkId": "65d7217e8308768a0e1b37ee54e29e7e3c2f05ff",

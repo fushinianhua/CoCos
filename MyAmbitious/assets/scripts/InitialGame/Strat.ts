@@ -14,14 +14,17 @@ export class GameStrat extends Component {
   @property(Node)
   public ArchiveuiPanel: Node = null; //游戏结束界面
   onLoad(): void {
-    this.stratbut.node.on("click", this.Strat, this);
+    this.stratbut.node.on("click", this.ButStrat, this);
     this.readbut.node.on("click", this.readdata, this);
   }
   //开始游戏
-  Strat(): void {
-    director.loadScene("WarehouseScene(仓库页面)");
-  }
-  //读取档案
+  ButStrat(): void {
+    if (GameManager.inst()._PlayProentry === "") {
+      director.loadScene("GetPropentyScebe(获取属性)");
+    } else {
+      director.loadScene("WarehouseScene(仓库页面)");
+    }
+  } //读取档案
   readdata() {
     this.Archiveui.active = true;
 

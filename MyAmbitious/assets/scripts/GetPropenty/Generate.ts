@@ -37,6 +37,27 @@ export class NewComponent extends Component {
       精通花店: { Size: 2, Effect: "增加" },
       营销专家: { Size: 4, Effect: "所有商品销量+10%" },
     };
+    // 初始化累计时间为0
+    this.elapsedTime = 0;
+    console.log(this.elapsedTime + "秒");
+
+    // // 调度一个任务
+    // this.schedule(function () {
+    //   // 设置一个延迟，10毫秒后执行以下函数
+    // }, 0.2); // 延迟0.2秒执行调度任务
+    console.log("kasihi ");
+
+    this.Charaters = {
+      "+1000": { Size: 1, Effect: "加现金1000元" },
+      精通服装店: { Size: 2, Effect: "服装店销量+10%" },
+      "+10000元": { Size: 3, Effect: "增加" },
+      精通花店: { Size: 2, Effect: "增加" },
+      营销专家: { Size: 4, Effect: "所有商品销量+10%" },
+    };
+    const kys = Object.keys(this.Charaters);
+    const key = kys[1];
+    console.log(this.Charaters[key].Effect);
+    console.log(this.Charaters[key].Size);
   }
 
   update(deltaTime: number) {
