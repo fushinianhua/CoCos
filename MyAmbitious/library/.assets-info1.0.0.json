@@ -293,7 +293,7 @@
       "uuid": "e847b3bf-0699-4612-97fc-9532d7967291"
     },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scenes": {
-      "time": 1736645122062.2598,
+      "time": 1737164278933.1765,
       "uuid": "b5918a7c-8992-4c65-9b13-b8c3981cd5ce"
     },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts": {
@@ -395,12 +395,8 @@
       "time": 1737111343777.8352,
       "uuid": "8069a5fc-174a-4948-aa53-82497b013204"
     },
-    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scenes\\GameInitialScene(初始界面).scene": {
-      "time": 1737163459044.5747,
-      "uuid": "52d4f6bd-2fd3-4baf-9469-6cf02da46b4d"
-    },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scenes\\GetPropentyScebe(获取属性).scene": {
-      "time": 1737112544607.0256,
+      "time": 1737184173795.1638,
       "uuid": "8325a6f3-774e-41e2-9e1a-36922b698ee3"
     },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scenes\\WarehouseScene(仓库页面).scene": {
@@ -422,18 +418,22 @@
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scenes\\GetPropentyScebe(获取属性).scene.meta": {
       "time": 1718852828000
     },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scenes\\WarehouseScene(仓库页面).scene.meta": {
+      "time": 1734313287995.42
+    },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scenes\\GameInitialScene(初始界面).scene.meta": {
       "time": 1734327156503.2888
     },
-    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scenes\\WarehouseScene(仓库页面).scene.meta": {
-      "time": 1734313287995.42
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scenes\\GameInitialScene(初始界面).scene": {
+      "time": 1735289953968.2517,
+      "uuid": "52d4f6bd-2fd3-4baf-9469-6cf02da46b4d"
     }
   },
   "missing": {
     "52d4f6bd-2fd3-4baf-9469-6cf02da46b4d": {
-      "path": "D:\\Github_project\\AmbitiousApp\\Ambitious\\assets\\scenes\\GameStratScene(初始界面).scene",
-      "time": 1734327669237.0874,
-      "removeTime": 1734338127599
+      "path": "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scenes\\GameInitialScene(初始界面).scene",
+      "time": 1735289953968.2517,
+      "removeTime": 1737164264266
     },
     "d60694b3-fb4a-456d-84f8-2d2881489b29": {
       "path": "D:\\Github_project\\AmbitiousApp\\Ambitious\\assets\\scripts\\WarehouseScene(仓库页面).scene",

@@ -28,18 +28,15 @@
     "value": {
       "depends": [
         "52d4f6bd-2fd3-4baf-9469-6cf02da46b4d",
-        "8069a5fc-174a-4948-aa53-82497b013204",
         "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
-        "37766315-1ad3-43ba-bf5c-a68dd197e7fd",
-        "f420ac18-2c0d-4035-a4cf-5c22b9a6cdc7",
+        "24a704da-2867-446d-8d1a-5e920c75e09d@f9941",
         "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
         "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
-        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
-        "e46d5455-4634-4b80-be6c-319d8fdd925c"
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941"
       ],
       "dependScripts": [
-        "09598f0c-8d62-4576-a817-fa7fffff96ee",
-        "CC3eba29-7abb-723a-f7ab-ae275e2277e8"
+        "12772528-33df-45a1-9f08-4b75af736dfb",
+        "c19e6a94-f1d3-4a12-be1b-d65c708b865a"
       ]
     },
     "versionCode": 0
@@ -212,6 +209,10 @@
         "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
         "37766315-1ad3-43ba-bf5c-a68dd197e7fd",
         "f420ac18-2c0d-4035-a4cf-5c22b9a6cdc7",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "8069a5fc-174a-4948-aa53-82497b013204",
         "e46d5455-4634-4b80-be6c-319d8fdd925c"
       ],
       "dependScripts": [
