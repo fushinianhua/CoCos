@@ -138,10 +138,6 @@
     "C:\\Users\\辛鹏\\Desktop\\CCS\\AmbitiousApp\\Ambitious\\assets\\Prefabs\\PropenrtyName.prefab.meta": {
       "time": 1735379566249.721
     },
-    "C:\\Users\\辛鹏\\Desktop\\CCS\\AmbitiousApp\\Ambitious\\assets\\Prefabs\\PropenrtyName.prefab": {
-      "time": 1735382219061.3923,
-      "uuid": "bb4a9d92-ff21-4aa5-a0b6-2aad8e51f3f5"
-    },
     "C:\\Users\\辛鹏\\Desktop\\CCS\\AmbitiousApp\\Ambitious\\assets\\scripts\\GetPropenty\\Generate.ts.meta": {
       "time": 1735379618153.7957
     },
@@ -225,10 +221,6 @@
     },
     "C:\\Users\\Administrator\\Desktop\\Ambitious\\assets\\scripts\\Warehouse\\Createnew.ts.meta": {
       "time": 1735086449121.6602
-    },
-    "C:\\Users\\Administrator\\Desktop\\Ambitious\\assets\\Prefabs\\PropenrtyName.prefab": {
-      "time": 1736003462585.1077,
-      "uuid": "bb4a9d92-ff21-4aa5-a0b6-2aad8e51f3f5"
     },
     "C:\\Users\\Administrator\\Desktop\\Ambitious\\assets\\Prefabs\\WareHouse.prefab": {
       "time": 1735088480754.0266,
@@ -325,7 +317,7 @@
       "uuid": "43d2608a-bf97-480b-8436-b6848b623605"
     },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\GetPropenty\\GameManager.ts": {
-      "time": 1736650187387.902,
+      "time": 1737163589662.8071,
       "uuid": "09598f0c-8d62-4576-a817-fa7fffff96ee"
     },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\GetPropenty\\Generate.ts": {
@@ -333,7 +325,7 @@
       "uuid": "f6c33b8e-3be6-49ee-93f5-0cfcb3251690"
     },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\GetPropenty\\Move.ts": {
-      "time": 1736650441288.421,
+      "time": 1737163182177.0024,
       "uuid": "54cb2b42-ba73-4eaf-a711-7ac949db7199"
     },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\Globla\\GameManger.ts": {
@@ -404,7 +396,7 @@
       "uuid": "8069a5fc-174a-4948-aa53-82497b013204"
     },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scenes\\GameInitialScene(初始界面).scene": {
-      "time": 1736665033417.3098,
+      "time": 1737163459044.5747,
       "uuid": "52d4f6bd-2fd3-4baf-9469-6cf02da46b4d"
     },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scenes\\GetPropentyScebe(获取属性).scene": {
@@ -574,9 +566,9 @@
       "removeTime": 1736338582208
     },
     "bb4a9d92-ff21-4aa5-a0b6-2aad8e51f3f5": {
-      "path": "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs\\PropenrtyName.prefab",
+      "path": "C:\\Users\\Administrator\\Desktop\\Ambitious\\assets\\Prefabs\\PropenrtyName.prefab",
       "time": 1736003462585.1077,
-      "removeTime": 1737110264264
+      "removeTime": 1737159968653
     }
   }
 }

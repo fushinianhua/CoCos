@@ -53,7 +53,7 @@ export class Move extends Component {
           this.restratpanel.active = true;
         });
       }).start();
-    }, 8);
+    }, GameManager.Instance.totalTime);
   }
   onDestroy() {
     // 移除触摸事件

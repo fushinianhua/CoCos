@@ -17,10 +17,17 @@ const { ccclass, property } = _decorator;
 @ccclass("GameManager")
 export class GameManager extends Component {
   private static _instance: GameManager = new GameManager();
-  @property(Prefab)
-  prefabLabel: Prefab;
+
   @property([String])
   workNameArray: string[] = [];
+  @property(Prefab)
+  WorkLabelPrefab: Prefab;
+  @property(Node)
+  TimerLabel: Node;
+  @property(Number)
+  public totalTime: number = 0;
+  private currenTime: number = this.totalTime;
+
   //使用过的索引
   private usedIndexes: Set<number> = new Set();
   // 获取实例
@@ -38,9 +45,18 @@ export class GameManager extends Component {
     }
   }
   protected start(): void {
+    this.currenTime = this.totalTime;
     this.schedule(this.replaceLabelContent, 0.5);
   }
-  protected update(dt: number): void {}
+  protected update(dt: number): void {
+    if (this.currenTime > 0) {
+      this.currenTime -= dt;
+      this.TimerLabel.getComponent(Label).string = this.currenTime.toFixed(2);
+    } else {
+      this.currenTime = 0;
+      this.TimerLabel.getComponent(Label).string = this.currenTime.toFixed(2);
+    }
+  }
 
   private replaceLabelContent(): void {
     // 重置已使用的索引列表，如果所有索引都被使用过一次
@@ -58,7 +74,8 @@ export class GameManager extends Component {
     // 标记此索引为已使用
     this.usedIndexes.add(randomIndex);
     // 更新 prefabLabel 的内容
-    let WorkLabelNode = instantiate(this.prefabLabel);
+    let WorkLabelNode = instantiate(this.WorkLabelPrefab);
+
     WorkLabelNode.getComponent(Label).string = this.workNameArray[randomIndex];
     WorkLabelNode.parent = find("Canvas/WorkList");
     WorkLabelNode.setPosition(randomRange(-320, 320), 670);
