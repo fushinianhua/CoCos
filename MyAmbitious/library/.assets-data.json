@@ -217,8 +217,7 @@
       ],
       "dependScripts": [
         "CC3eba29-7abb-723a-f7ab-ae275e2277e8",
-        "09598f0c-8d62-4576-a817-fa7fffff96ee",
-        "f6c33b8e-3be6-49ee-93f5-0cfcb3251690"
+        "f292b56c-ff9c-4033-a156-fae276cdb698"
       ]
     },
     "versionCode": 0
@@ -255,6 +254,29 @@
   },
   "8069a5fc-174a-4948-aa53-82497b013204": {
     "url": "db://assets/Prefabs/WorkLabel.prefab",
+    "value": {
+      "depends": [],
+      "dependScripts": []
+    },
+    "versionCode": 0
+  },
+  "7c9d5140-3828-4fed-a178-c6c84a376df2": {
+    "url": "db://assets/scripts/GetPropenty/Generate.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "23165142-3908-454c-aad9-6709c24fb006": {
+    "url": "db://assets/scripts/InitialGame",
+    "value": {},
+    "versionCode": 0
+  },
+  "f292b56c-ff9c-4033-a156-fae276cdb698": {
+    "url": "db://assets/scripts/GetPropenty/Manager.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "e7de7f2d-30fd-4520-b5a5-7fb181bb29f8": {
+    "url": "db://assets/Prefabs/PropenrtyLabel.prefab",
     "value": {
       "depends": [],
       "dependScripts": []

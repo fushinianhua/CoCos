@@ -3,5 +3,8 @@
   "uuid": "895baedf-dfb5-450f-acdc-e5494c73f9fb",
   "creator": {
     "version": "3.8.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.1"
   }
 }

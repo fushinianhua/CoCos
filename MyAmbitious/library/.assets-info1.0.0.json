@@ -118,10 +118,6 @@
     "C:\\Users\\辛鹏\\Desktop\\CCS\\AmbitiousApp\\Ambitious\\assets\\scripts\\InitialGame.meta": {
       "time": 1734933707524.9148
     },
-    "C:\\Users\\辛鹏\\Desktop\\CCS\\AmbitiousApp\\Ambitious\\assets\\scripts\\InitialGame": {
-      "time": 1735086381345.837,
-      "uuid": "99f49457-fc2c-43fd-8f5a-9ae13954d95e"
-    },
     "C:\\Users\\辛鹏\\Desktop\\CCS\\AmbitiousApp\\Ambitious\\assets\\scripts\\InitialGame\\Strat.ts.meta": {
       "time": 1735001841182.0928
     },
@@ -140,10 +136,6 @@
     },
     "C:\\Users\\辛鹏\\Desktop\\CCS\\AmbitiousApp\\Ambitious\\assets\\scripts\\GetPropenty\\Generate.ts.meta": {
       "time": 1735379618153.7957
-    },
-    "C:\\Users\\辛鹏\\Desktop\\CCS\\AmbitiousApp\\Ambitious\\assets\\scripts\\GetPropenty\\Generate.ts": {
-      "time": 1735382147486.1707,
-      "uuid": "f6c33b8e-3be6-49ee-93f5-0cfcb3251690"
     },
     "C:\\Users\\Administrator\\Desktop\\Ambitious\\assets\\Prefabs": {
       "time": 1736337412299.5525,
@@ -165,17 +157,9 @@
       "time": 1735003062100.6685,
       "uuid": "2d433d3a-66b0-4c39-8c32-d2235022fc9b"
     },
-    "C:\\Users\\Administrator\\Desktop\\Ambitious\\assets\\scripts\\InitialGame": {
-      "time": 1735086381345.837,
-      "uuid": "99f49457-fc2c-43fd-8f5a-9ae13954d95e"
-    },
     "C:\\Users\\Administrator\\Desktop\\Ambitious\\assets\\scripts\\Warehouse": {
       "time": 1735086449118.74,
       "uuid": "43d2608a-bf97-480b-8436-b6848b623605"
-    },
-    "C:\\Users\\Administrator\\Desktop\\Ambitious\\assets\\scripts\\GetPropenty\\Generate.ts": {
-      "time": 1736002821710.2107,
-      "uuid": "f6c33b8e-3be6-49ee-93f5-0cfcb3251690"
     },
     "C:\\Users\\Administrator\\Desktop\\Ambitious\\assets\\scripts\\Globla\\GameManger.ts": {
       "time": 1735291246346.2754,
@@ -249,10 +233,6 @@
     "C:\\Users\\Administrator\\Desktop\\Ambitious\\assets\\scripts\\GetPropenty\\GameManager.ts.meta": {
       "time": 1736337310945.784
     },
-    "C:\\Users\\Administrator\\Desktop\\Ambitious\\assets\\scripts\\GetPropenty\\GameManager.ts": {
-      "time": 1736339062636.2742,
-      "uuid": "09598f0c-8d62-4576-a817-fa7fffff96ee"
-    },
     "C:\\Users\\Administrator\\Desktop\\Ambitious\\assets\\scripts\\GetPropenty\\Move.ts.meta": {
       "time": 1736337310955.1514
     },
@@ -289,55 +269,23 @@
       "uuid": "8325a6f3-774e-41e2-9e1a-36922b698ee3"
     },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs": {
-      "time": 1737110264255.1155,
+      "time": 1739408391398.2502,
       "uuid": "e847b3bf-0699-4612-97fc-9532d7967291"
     },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scenes": {
-      "time": 1737164278933.1765,
+      "time": 1739408391427.4517,
       "uuid": "b5918a7c-8992-4c65-9b13-b8c3981cd5ce"
     },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts": {
-      "time": 1736645122132.3406,
+      "time": 1739408391468.3296,
       "uuid": "f554555c-fc49-4565-83bb-963de13cd098"
     },
-    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\GetPropenty": {
-      "time": 1736645122106.073,
-      "uuid": "4261d92d-3313-4319-b661-54dcbef0a652"
-    },
-    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\Globla": {
-      "time": 1736645122116.768,
-      "uuid": "2d433d3a-66b0-4c39-8c32-d2235022fc9b"
-    },
-    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\InitialGame": {
-      "time": 1736645122128.4473,
-      "uuid": "99f49457-fc2c-43fd-8f5a-9ae13954d95e"
-    },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\Warehouse": {
-      "time": 1736645122139.1643,
+      "time": 1739408391548.4438,
       "uuid": "43d2608a-bf97-480b-8436-b6848b623605"
     },
-    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\GetPropenty\\GameManager.ts": {
-      "time": 1737163589662.8071,
-      "uuid": "09598f0c-8d62-4576-a817-fa7fffff96ee"
-    },
-    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\GetPropenty\\Generate.ts": {
-      "time": 1737196790780.9329,
-      "uuid": "f6c33b8e-3be6-49ee-93f5-0cfcb3251690"
-    },
-    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\GetPropenty\\Move.ts": {
-      "time": 1737163182177.0024,
-      "uuid": "54cb2b42-ba73-4eaf-a711-7ac949db7199"
-    },
-    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\Globla\\GameManger.ts": {
-      "time": 1737190217671.3,
-      "uuid": "12772528-33df-45a1-9f08-4b75af736dfb"
-    },
-    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\InitialGame\\Strat.ts": {
-      "time": 1737190215712.5962,
-      "uuid": "c19e6a94-f1d3-4a12-be1b-d65c708b865a"
-    },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\Warehouse\\Createnew.ts": {
-      "time": 1735289988739.7803,
+      "time": 1739411118122.7812,
       "uuid": "f39b31db-622b-4150-a19e-5bbafa66aa79"
     },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs.meta": {
@@ -349,32 +297,8 @@
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts.meta": {
       "time": 1734330190073.2664
     },
-    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\GetPropenty.meta": {
-      "time": 1735289531708.909
-    },
-    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\Globla.meta": {
-      "time": 1735002120901.1843
-    },
-    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\InitialGame.meta": {
-      "time": 1734933707524.9148
-    },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\Warehouse.meta": {
       "time": 1735086409345.493
-    },
-    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\GetPropenty\\GameManager.ts.meta": {
-      "time": 1736337310945.784
-    },
-    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\GetPropenty\\Generate.ts.meta": {
-      "time": 1735379618153.7957
-    },
-    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\GetPropenty\\Move.ts.meta": {
-      "time": 1736337310955.1514
-    },
-    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\Globla\\GameManger.ts.meta": {
-      "time": 1735003062102.6062
-    },
-    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\InitialGame\\Strat.ts.meta": {
-      "time": 1735001841182.0928
     },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\Warehouse\\Createnew.ts.meta": {
       "time": 1735086449121.6602
@@ -388,26 +312,19 @@
       "uuid": "f420ac18-2c0d-4035-a4cf-5c22b9a6cdc7"
     },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs\\WareHouse.prefab": {
-      "time": 1735088480754.0266,
+      "time": 1737368696792.4575,
       "uuid": "a8c4d183-af91-48fe-8ddc-bdf5e94f79d2"
     },
-    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs\\WorkLabel.prefab": {
-      "time": 1737111343777.8352,
-      "uuid": "8069a5fc-174a-4948-aa53-82497b013204"
-    },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scenes\\GetPropentyScebe(获取属性).scene": {
-      "time": 1737196798417.932,
+      "time": 1739443007797.3247,
       "uuid": "8325a6f3-774e-41e2-9e1a-36922b698ee3"
     },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scenes\\WarehouseScene(仓库页面).scene": {
-      "time": 1736645834608.4824,
+      "time": 1739234241526.2407,
       "uuid": "d60694b3-fb4a-456d-84f8-2d2881489b29"
     },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs\\Basket.prefab.meta": {
       "time": 1736337412299.5525
-    },
-    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs\\WorkLabel.prefab.meta": {
-      "time": 1721100411000
     },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs\\FutureWorkLabel.prefab.meta": {
       "time": 1721106595000
@@ -425,8 +342,71 @@
       "time": 1734327156503.2888
     },
     "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scenes\\GameInitialScene(初始界面).scene": {
-      "time": 1737191275109.787,
+      "time": 1739411362529.021,
       "uuid": "52d4f6bd-2fd3-4baf-9469-6cf02da46b4d"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs\\PropenrtyLabel.prefab.meta": {
+      "time": 1739408418942.5818
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs\\PropenrtyLabel.prefab": {
+      "time": 1739178142995.5017,
+      "uuid": "e7de7f2d-30fd-4520-b5a5-7fb181bb29f8"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\GetPropenty.meta": {
+      "time": 1735289531708.909
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\GetPropenty": {
+      "time": 1739409981521.3318,
+      "uuid": "4261d92d-3313-4319-b661-54dcbef0a652"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\GetPropenty\\Manager.ts.meta": {
+      "time": 1739408418936.199
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\GetPropenty\\Manager.ts": {
+      "time": 1739442601313.3408,
+      "uuid": "f292b56c-ff9c-4033-a156-fae276cdb698"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\GetPropenty\\Move.ts.meta": {
+      "time": 1736337310955.1514
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\GetPropenty\\Move.ts": {
+      "time": 1739411528774.825,
+      "uuid": "54cb2b42-ba73-4eaf-a711-7ac949db7199"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\Globla.meta": {
+      "time": 1735002120901.1843
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\Globla": {
+      "time": 1739408391518.9436,
+      "uuid": "2d433d3a-66b0-4c39-8c32-d2235022fc9b"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\Globla\\GameManger.ts.meta": {
+      "time": 1735003062102.6062
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\Globla\\GameManger.ts": {
+      "time": 1739411750968.4438,
+      "uuid": "12772528-33df-45a1-9f08-4b75af736dfb"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\InitialGame.meta": {
+      "time": 1739233841940.3691
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\InitialGame\\Strat.ts.meta": {
+      "time": 1735001841182.0928
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\InitialGame": {
+      "time": 1739408391533.544,
+      "uuid": "23165142-3908-454c-aad9-6709c24fb006"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\InitialGame\\Strat.ts": {
+      "time": 1739442600593.9397,
+      "uuid": "c19e6a94-f1d3-4a12-be1b-d65c708b865a"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs\\WorkLabel.prefab": {
+      "time": 1739355418937.915,
+      "uuid": "8069a5fc-174a-4948-aa53-82497b013204"
+    },
+    "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs\\WorkLabel.prefab.meta": {
+      "time": 1739355418937.915
     }
   },
   "missing": {
@@ -481,9 +461,9 @@
       "removeTime": 1735002111008
     },
     "2d433d3a-66b0-4c39-8c32-d2235022fc9b": {
-      "path": "C:\\Users\\辛鹏\\Desktop\\CCS\\AmbitiousApp\\Ambitious\\assets\\scripts\\GloblaMethod",
-      "time": 1735002120854.984,
-      "removeTime": 1735002489244
+      "path": "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\AGlobla",
+      "time": 1739177345621.2957,
+      "removeTime": 1739177386774
     },
     "e847b3bf-0699-4612-97fc-9532d7967291": {
       "path": "C:\\Users\\辛鹏\\Desktop\\CCS\\AmbitiousApp\\Ambitious\\assets\\Prebres",
@@ -496,14 +476,14 @@
       "removeTime": 1736645711041
     },
     "99f49457-fc2c-43fd-8f5a-9ae13954d95e": {
-      "path": "C:\\Users\\辛鹏\\Desktop\\CCS\\AmbitiousApp\\Ambitious\\assets\\scripts\\strat",
+      "path": "C:\\Users\\Administrator\\Desktop\\Ambitious\\assets\\scripts\\InitialGame",
       "time": 1735086381345.837,
-      "removeTime": 1735289601196
+      "removeTime": 1739408742785
     },
     "c19e6a94-f1d3-4a12-be1b-d65c708b865a": {
-      "path": "C:\\Users\\辛鹏\\Desktop\\CCS\\AmbitiousApp\\Ambitious\\assets\\scripts\\strat\\Strat.ts",
-      "time": 1735208203036.3403,
-      "removeTime": 1735289601197
+      "path": "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\InitialGame\\Strat.ts",
+      "time": 1737190215712.5962,
+      "removeTime": 1739179382403
     },
     "eee5ba1e-7d66-4ac8-97d6-b5de4037c2cd": {
       "path": "C:\\Users\\辛鹏\\Desktop\\CCS\\AmbitiousApp\\Ambitious\\assets\\scripts\\strat",
@@ -546,9 +526,9 @@
       "removeTime": 1735364714928
     },
     "f6c33b8e-3be6-49ee-93f5-0cfcb3251690": {
-      "path": "C:\\Users\\辛鹏\\Desktop\\CCS\\AmbitiousApp\\Ambitious\\assets\\scripts\\GetPropenty\\NewComponent.ts",
-      "time": 1735379618149.9033,
-      "removeTime": 1735379646300
+      "path": "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\GetPropenty\\Generate.ts",
+      "time": 1739355418942.056,
+      "removeTime": 1739409981532
     },
     "aa1bf362-0f2b-4cba-ac32-c367d653861e": {
       "path": "C:\\Users\\Administrator\\Desktop\\Ambitious\\assets\\scripts\\GetPropenty\\Destroy.ts",
@@ -569,6 +549,36 @@
       "path": "C:\\Users\\Administrator\\Desktop\\Ambitious\\assets\\Prefabs\\PropenrtyName.prefab",
       "time": 1736003462585.1077,
       "removeTime": 1737159968653
+    },
+    "8069a5fc-174a-4948-aa53-82497b013204": {
+      "path": "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\Prefabs\\WorkLabel.prefab",
+      "time": 1737368097312.968,
+      "removeTime": 1737368322627
+    },
+    "7c9d5140-3828-4fed-a178-c6c84a376df2": {
+      "path": "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\GetPropenty\\Generate.ts",
+      "time": 1737369279825.633,
+      "removeTime": 1737369444506
+    },
+    "09598f0c-8d62-4576-a817-fa7fffff96ee": {
+      "path": "C:\\Users\\Administrator\\Desktop\\Ambitious\\assets\\scripts\\GetPropenty\\GameManager.ts",
+      "time": 1736339062636.2742,
+      "removeTime": 1739409691614
+    },
+    "4261d92d-3313-4319-b661-54dcbef0a652": {
+      "path": "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\Globla\\GetPropenty",
+      "time": 1737369844634.846,
+      "removeTime": 1739177345623
+    },
+    "54cb2b42-ba73-4eaf-a711-7ac949db7199": {
+      "path": "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\Globla\\GetPropenty\\Move.ts",
+      "time": 1739165631158.0725,
+      "removeTime": 1739177345623
+    },
+    "12772528-33df-45a1-9f08-4b75af736dfb": {
+      "path": "D:\\Github_project\\CoCos\\MyAmbitious\\assets\\scripts\\AGlobla\\GameManger.ts",
+      "time": 1739165631186.2883,
+      "removeTime": 1739177386774
     }
   }
 }

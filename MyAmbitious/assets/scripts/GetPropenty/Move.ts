@@ -1,15 +1,21 @@
 import {
   _decorator,
   Component,
+  director,
   EventTouch,
   instantiate,
+  Label,
   Node,
   Prefab,
+  Size,
   tween,
+  UITransform,
   Vec2,
   Vec3,
 } from "cc";
-import { GameManager } from "./GameManager";
+import { GameManager } from "../Globla/GameManger";
+import { Manager } from "./Manager";
+
 const { ccclass, property } = _decorator;
 
 @ccclass("Move")
@@ -24,6 +30,7 @@ export class Move extends Component {
   private _isDragging: boolean = false;
   @property(Node)
   restratpanel: Node = null;
+
   onLoad() {
     // 注册触摸事件
     this.addTouch();
@@ -50,11 +57,52 @@ export class Move extends Component {
       t1.call(() => {
         t2.start();
         this.scheduleOnce(() => {
+          //获取玩家选择的属性标签
+          let newnode = this.getPlayerSelectedProperty();
+          //判断玩家是否选择了属性标签
+          if (newnode) {
+            //获取玩家选择的属性标签的文字内容
+            GameManager.PlayProentry =
+              // 把玩家选择的属性标签的文字内容赋值给 wanjiashuxing 变量
+              newnode.getComponent(Label).string;
+            GameManager.inst().savePlayerPropenty();
+            console.log(newnode.getComponent(Label).string);
+          }
+          console.log("获取完成");
           this.restratpanel.active = true;
         });
       }).start();
-    }, GameManager.Instance.totalTime);
+    }, Manager.Instance.totalTime);
   }
+  getPlayerSelectedProperty(): Node | null {
+    let getpronode = null;
+    const selfUITransform = this.node.getComponent(UITransform);
+    if (!selfUITransform) {
+      return getpronode;
+    }
+    const selfPosition = this.node.getPosition();
+    const selfHalfWidth = selfUITransform.contentSize.width / 2;
+    const selfHalfHeight = selfUITransform.contentSize.height / 2;
+    const minX = selfPosition.x - selfHalfWidth;
+    const maxX = selfPosition.x + selfHalfWidth;
+    const minY = selfPosition.y - selfHalfHeight;
+    const maxY = selfPosition.y + selfHalfHeight;
+    let workListNode =
+      this.node.scene.getChildByPath("Canvas/WorkList").children;
+    workListNode.forEach((element) => {
+      const elementPosition = element.getPosition();
+      if (
+        elementPosition.x >= minX &&
+        elementPosition.x <= maxX &&
+        elementPosition.y >= minY &&
+        elementPosition.y <= maxY
+      ) {
+        getpronode = element;
+      }
+    });
+    return getpronode;
+  }
+
   onDestroy() {
     // 移除触摸事件
     this.removeTouch();

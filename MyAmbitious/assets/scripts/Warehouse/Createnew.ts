@@ -31,7 +31,7 @@ export class Createnew extends Component {
     const str = GameManager.inst()._playerName;
 
     strlabel.string = str + "的仓库";
-    this.Loacthousecount = GameManager.inst()._Store;
+    this.Loacthousecount = GameManager.inst()._StoreCount;
 
     let cpint2 = GameManager.inst()._Money;
 
@@ -41,7 +41,7 @@ export class Createnew extends Component {
   }
   update(deltaTime: number) {}
   /**
-   * 创建货架
+   * 根据玩家本地货架数量创建已存在的货架
    */
   CreateShelf() {
     if (this.currentHouseCount === this.MaxhouseCount) {
@@ -58,17 +58,13 @@ export class Createnew extends Component {
     try {
       let newx = 0;
       let newy = 0;
-
       // 计算商和余数
       let quotient = Math.floor(num / 2); // 商
       let remainder = num % 2; // 余数
-
       // 根据余数设置 newx
       newx = remainder === 0 ? 180 : -180;
-
       // 根据 quotient 计算 newy 的位置
       newy = this.Y - (quotient + remainder) * 200;
-
       const house = instantiate(this.House);
       house.setPosition(v3(newx, newy, 0)); // 设置房屋位置
       let LAB = house.getChildByName("Title").getComponent(Label);

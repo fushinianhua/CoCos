@@ -1,6 +1,5 @@
 import { _decorator, Button, Component, director, Label, Node } from "cc";
-import { GameManager } from "../Globla//GameManger";
-import { PREVIEW } from "cc/env";
+import { GameManager } from "../Globla/GameManger";
 const { ccclass, property } = _decorator;
 
 @ccclass("Strat")
@@ -19,7 +18,7 @@ export class GameStrat extends Component {
   }
   //开始游戏
   ButStrat(): void {
-    if (GameManager.inst()._PlayProentry === "") {
+    if (GameManager._PlayProentry === null) {
       director.loadScene("GetPropentyScebe(获取属性)");
     } else {
       director.loadScene("WarehouseScene(仓库页面)");
@@ -45,6 +44,9 @@ export class GameStrat extends Component {
     this.Archiveui.getChildByName("NameLable").getComponent(
       Label
     ).string = `名字: ${name}`;
+    this.Archiveui.getChildByName("StoreLable").getComponent(
+      Label
+    ).string = `仓库: ${stroenum}个`;
     this.Archiveui.getChildByName("StoreLable").getComponent(
       Label
     ).string = `仓库: ${stroenum}个`;
